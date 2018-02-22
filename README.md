@@ -10,3 +10,6 @@ Firing_Arc_&lt;xws firing_arc, lower case, remove spaces&gt;_&lt;xws size&gt;_&l
 
 <h3>Actions</h3>
 Action_&lt;xws action, lower case, remove spaces&gt;.png
+
+<h3>Pilots</h3>
+Pilot_&lt;faction, lower case, remove spaces&gt;_&lt;ship xws&gt;_&lt;pilot xws%gt;.jpg
