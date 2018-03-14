@@ -15,7 +15,7 @@
     <path stroke-dasharray="6,6" d="M 1,63.5 L 112,63.5"/>
   </g>
 
-  <path style="fill:#ff0000;fill-opacity:.30" d="M 56.5,63.5 L 8.3296,8 L 1,8 L 1,63.5 L 56.5,63.5 Z"/>
-  <path style="fill:#ff0000;fill-opacity:.30" d="M 56.5,63.5 L 104.6704,8 L 112,8 L 112,63.5 L 56.5,63.5 Z"/>
+  <path style="fill:#ff0000;fill-opacity:.10" d="M 56.5,63.5 L 8.3296,8 L 1,8 L 1,63.5 L 56.5,63.5 Z"/>
+  <path style="fill:#ff0000;fill-opacity:.10" d="M 56.5,63.5 L 104.6704,8 L 112,8 L 112,63.5 L 56.5,63.5 Z"/>
 
 </svg>

@@ -9,8 +9,15 @@
     </rdf:RDF>
   </metadata>
   <defs id="defs3031"/>
-  <line y2="232" style="stroke:#00ff00;stroke-width:1" x1="113" x2="11.1650" y1="120"/>
-  <line y2="232" style="stroke:#00ff00;stroke-width:1" x1="113" x2="214.835" y1="120"/>
-  <path style="fill:#00ff00;fill-opacity:.30" d="M 113,120 L 11.1650,232 L 214.835,232 L 113,120 Z"/>
+  
+  <g fill="none" stroke-width="1" stroke="#00ff00">
+    <path stroke-dasharray="6,6" d="M 113,120 L 11.1650,232"/>
+  </g>
+  
+  <g fill="none" stroke-width="1" stroke="#00ff00">
+    <path stroke-dasharray="6,6" d="M 113,120 L 214.835,232"/>
+  </g>
+
+  <path style="fill:#00ff00;fill-opacity:.10" d="M 113,120 L 11.1650,232 L 214.835,232 L 113,120 Z"/>
   
 </svg>
