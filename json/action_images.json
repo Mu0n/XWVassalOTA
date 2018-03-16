@@ -1,46 +1,47 @@
 [
   {
-    "action":"barrelroll",
+    "name":"barrelroll",
     "image":"Action_barrelroll.png"
   },
   {
-    "action":"boost",
+    "name":"boost",
     "image":"Action_boost.png"
   },
   {
-    "action":"cloak",
+    "name":"cloak",
     "image":"Action_cloak.png"
   },
   {
-    "action":"coordinate",
+    "name":"coordinate",
     "image":"Action_coordinate.png"
   },
   {
-    "action":"evade",
+    "name":"evade",
     "image":"Action_evade.png"
   },
   {
-    "action":"focus",
+    "name":"focus",
     "image":"Action_focus.png"
   },
   {
-    "action":"reinforce",
+    "name":"reinforce",
     "image":"Action_reinforce.png"
   },
   {
-    "action":"reload",
+    "name":"reload",
     "image":"Action_reload.png"
   },
   {
-    "action":"rotatearc",
+    "name":"rotatearc",
     "image":"Action_rotatearc.png"
-  },  {
-  "action":"slam",
-  "image":"Action_slam.png"
-},
-  {
-    "action":"targetlock",
-    "image":"Action_targetlock.png"
   },
+  {
+  "name":"slam",
+  "image":"Action_slam.png"
+  },
+  {
+    "name":"targetlock",
+    "image":"Action_targetlock.png"
+  }
 
 ]
