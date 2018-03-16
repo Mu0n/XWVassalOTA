@@ -1,6 +1,6 @@
 [
   {
-    "ship": "U-Wing",
+    "name": "U-Wing",
     "xws": "uwing",
     "images" : [
       "Ship_uwing-attack.png",
