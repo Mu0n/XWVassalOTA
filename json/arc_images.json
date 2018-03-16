@@ -1,0 +1,218 @@
+[
+  {
+    "faction":"galacticempire",
+    "size" : "large",
+    "arc": "auxiliary180",
+    "image": "Firing_Arc_auxiliary180_large_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "large",
+    "arc":"auxiliary180",
+    "image":"Firing_Arc_auxiliary180_large_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "large",
+    "arc":"auxiliary180",
+    "image":"Firing_Arc_auxiliary180_large_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "small",
+    "arc":"auxiliary180",
+    "image":"Firing_Arc_auxiliary180_small_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "small",
+    "arc":"auxiliary180",
+    "image":"Firing_Arc_auxiliary180_small_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc": "auxiliary180",
+    "image":"Firing_Arc_auxiliary180_small_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "large",
+    "arc":"auxiliaryrear",
+    "image":"Firing_Arc_auxiliaryrear_large_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "large",
+    "arc":"auxiliaryrear",
+    "image":"Firing_Arc_auxiliaryrear_large_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "large",
+    "arc":"auxiliaryrear",
+    "image":"Firing_Arc_auxiliaryrear_large_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "small",
+    "arc":"auxiliaryrear",
+    "image":"Firing_Arc_auxiliaryrear_small_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "small",
+    "arc":"auxiliaryrear",
+    "image":"Firing_Arc_auxiliaryrear_small_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc":"auxiliaryrear",
+    "image":"Firing_Arc_auxiliaryrear_small_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "large",
+    "arc":"bullseye",
+    "image":"Firing_Arc_bullseye_large_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "large",
+    "arc":"bullseye",
+    "image":"Firing_Arc_bullseye_large_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "large",
+    "arc":"bullseye",
+    "image":"Firing_Arc_bullseye_large_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "small",
+    "arc":"bullseye",
+    "image":"Firing_Arc_bullseye_small_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "small",
+    "arc":"bullseye",
+    "image":"Firing_Arc_bullseye_small_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc":"bullseye",
+    "image":"Firing_Arc_bullseye_small_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "large",
+    "arc":"front",
+    "image":"Firing_Arc_front_large_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "large",
+    "arc":"front",
+    "image":"Firing_Arc_front_large_rebelalliance.png"
+  },
+  {
+    "faction":"",
+    "size" : "large",
+    "arc":"front",
+    "image":"Firing_Arc_front_large_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "small",
+    "arc":"front",
+    "image":"Firing_Arc_front_small_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "small",
+    "arc":"front",
+    "image":"Firing_Arc_front_small_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc":"front",
+    "image":"Firing_Arc_front_small_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "large",
+    "arc":"mobile",
+    "image":"Firing_Arc_mobile_large_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "large",
+    "arc":"mobile",
+    "image":"Firing_Arc_mobile_large_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "large",
+    "arc":"mobile",
+    "image":"Firing_Arc_mobile_large_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "small",
+    "arc":"mobile",
+    "image":"Firing_Arc_mobile_small_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "small",
+    "arc":"mobile",
+    "image":"Firing_Arc_mobile_small_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc":"mobile",
+    "image":"Firing_Arc_mobile_small_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "large",
+    "arc":"turret",
+    "image":"Firing_Arc_turret_large_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "large",
+    "arc":"turret",
+    "image":"Firing_Arc_turret_large_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "large",
+    "arc":"turret",
+    "image":"Firing_Arc_turret_large_scumandvillainy.png"
+  },
+  {
+    "faction":"galacticempire",
+    "size" : "small",
+    "arc":"turret",
+    "image":"Firing_Arc_turret_small_galacticempire.png"
+  },
+  {
+    "faction":"rebelalliance",
+    "size" : "small",
+    "arc":"turret",
+    "image":"Firing_Arc_turret_small_rebelalliance.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc":"turret",
+    "image":"Firing_Arc_turret_small_scumandvillainy.png"
+  }
+]

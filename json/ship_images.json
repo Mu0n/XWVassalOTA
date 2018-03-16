@@ -1,0 +1,249 @@
+[
+  {
+    "xws": "xwing",
+    "image": "Ship_xwing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "ywing",
+    "image": "Ship_ywing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "awing",
+    "image": "Ship_awing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "yt1300",
+    "image": "Ship_yt1300.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiefighter",
+    "image": "Ship_tiefighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tieadvanced",
+    "image": "Ship_tieadvanced.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tieinterceptor",
+    "image": "Ship_tieinterceptor.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "firespray31",
+    "image": "Ship_firespray31.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "hwk290",
+    "image": "Ship_hwk290.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "lambdaclassshuttle",
+    "image": "Ship_lambdaclassshuttle.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "bwing",
+    "image": "Ship_bwing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiebomber",
+    "image": "Ship_tiebomber.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "z95headhunter",
+    "image": "Ship_z95headhunter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiedefender",
+    "image": "Ship_tiedefender.png",
+    "identifier" : ""
+  },
+  {
+
+    "xws": "ewing",
+    "image": "Ship_ewing.png",
+    "identifier" : ""
+  },
+  {
+
+    "xws": "tiephantom",
+    "image": "Ship_tiephantom.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "yt2400",
+    "image": "Ship_yt2400.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "vt49decimator",
+    "image": "Ship_vt49decimator.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "starviper",
+    "image": "Ship_starviper.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "m3ainterceptor",
+    "image": "Ship_m3ainterceptor.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "aggressor",
+    "image": "Ship_aggressor.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "yv666",
+    "image": "Ship_yv666.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "kihraxzfighter",
+    "image": "Ship_kihraxzfighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "kwing",
+    "image": "Ship_kwing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiepunisher",
+    "image": "Ship_tiepunisher.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "t70xwing",
+    "image": "Ship_t70xwing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiefofighter",
+    "image": "Ship_tiefofighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "vcx100",
+    "image": "Ship_vcx100.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "attackshuttle",
+    "image": "Ship_attackshuttle.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "jumpmaster5000",
+    "image": "Ship_jumpmaster5000.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "g1astarfighter",
+    "image": "Ship_g1astarfighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tieadvprototype",
+    "image": "Ship_tieadvprototype.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "arc170",
+    "image": "Ship_arc170.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiesffighter",
+    "image": "Ship_tiesffighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "protectoratestarfighter",
+    "image": "Ship_protectoratestarfighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "lancerclasspursuitcraft",
+    "image": "Ship_lancerclasspursuitcraft.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "upsilonclassshuttle",
+    "image": "Ship_upsilonclassshuttle.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "quadjumper",
+    "image": "Ship_quadjumper.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiestriker",
+    "image": "Ship_tiestriker.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "uwing",
+    "image": "Ship_uwing-attack.png",
+    "identifier" : "uwingattack"
+  },
+  {
+    "xws": "uwing",
+    "image": "Ship_uwing-landing.png",
+    "identifier" : "uwinglanding"
+  },
+  {
+    "xws": "auzituckgunship",
+    "image": "Ship_auzituckgunship.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tieaggressor",
+    "image": "Ship_tieaggressor.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "scurrgh6bomber",
+    "image": "Ship_scurrgh6bomber.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "alphaclassstarwing",
+    "image": "Ship_alphaclassstarwing.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "m12lkimogilafighter",
+    "image": "Ship_m12lkimogilafighter.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "sheathipedeclassshuttle",
+    "image": "Ship_sheathipedeclassshuttle.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "tiesilencer",
+    "image": "Ship_tiesilencer.png",
+    "identifier" : ""
+  },
+  {
+    "xws": "bsf17bomber",
+    "image": "Ship_bsf17bomber.png",
+    "identifier" : ""
+  }
+]

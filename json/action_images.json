@@ -1,0 +1,46 @@
+[
+  {
+    "action":"barrelroll",
+    "image":"Action_barrelroll.png"
+  },
+  {
+    "action":"boost",
+    "image":"Action_boost.png"
+  },
+  {
+    "action":"cloak",
+    "image":"Action_cloak.png"
+  },
+  {
+    "action":"coordinate",
+    "image":"Action_coordinate.png"
+  },
+  {
+    "action":"evade",
+    "image":"Action_evade.png"
+  },
+  {
+    "action":"focus",
+    "image":"Action_focus.png"
+  },
+  {
+    "action":"reinforce",
+    "image":"Action_reinforce.png"
+  },
+  {
+    "action":"reload",
+    "image":"Action_reload.png"
+  },
+  {
+    "action":"rotatearc",
+    "image":"Action_rotatearc.png"
+  },  {
+  "action":"slam",
+  "image":"Action_slam.png"
+},
+  {
+    "action":"targetlock",
+    "image":"Action_targetlock.png"
+  },
+
+]
