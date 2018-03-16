@@ -1,0 +1,12 @@
+[
+  {
+    "ship": "U-Wing",
+    "xws": "uwing",
+    "images" : [
+      "Ship_uwing-attack.png",
+      "Ship_uwing-landing.png"
+    ]
+
+  }
+
+]
