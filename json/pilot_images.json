@@ -642,10 +642,10 @@
     "pilotxws": "drearenthal"
   },
   {
-    "shipxws": "z95headhunter",
-    "faction": "scumandvillainy",
-    "image": "Pilot_scumandvillainy_z95headhunter_laatoleeachos.jpg",
-    "pilotxws": "kaatoleeachos"
+    "shixws":"z95headhunter",
+    "faction":"scumandvillainy",
+    "image":"Pilot_scumandvillainy_z95headhunter_laatoleeachos.jpg",
+    "pilotxws":"kaatoleeachos"
   },
   {
     "shipxws": "ywing",
