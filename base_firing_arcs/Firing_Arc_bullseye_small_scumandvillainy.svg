@@ -16,7 +16,7 @@
   <g fill="none" stroke-width="1.5" stroke="#ffa500">
     <path stroke-dasharray="6,6" d="M 42.5696,8 L 42.5696,47.5"/>
   </g>
-  
+
   <!-- right bullseye line -->
   <g fill="none" stroke-width="1.5" stroke="#ffa500">
     <path stroke-dasharray="6,6" d="M 70.1304,8 L 70.1304,47.5"/>

@@ -13,15 +13,11 @@ height="240" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creati
   </metadata>
   <defs id="defs3031"/>
 
- 
-  <path fill="none" stroke="#ffa500" stroke-width="1" d="M103,81.375
-  A 40 40 0 1 0 123,81.375
-  l 2,-5
-  A 45 45.5 0 1 1 100,76.375
-  l -3,-5
-  l 11,4
-  l -3,10
-  z"/>
+
+  <path
+          d="m 105.02771,55.515987 a 66.473239,66.625883 0 1 0 22.15775,0 l 2.21577,-5.552157 a 72.012676,72.733255 0 1 1 -27.69719,0 l -3.323664,-5.552157 12.186774,4.441725 -3.32367,11.104314 z"
+          style="fill:none;stroke:#ffa500;stroke-width:1"
+          id="path3764"/>
 
 
 </svg>
