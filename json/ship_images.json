@@ -102,37 +102,37 @@
     "faction" : ["rebelalliance"]
   },
   {
-    "xws": "firepray31",
+    "xws": "firespray31",
     "image": "Ship_firespray31.png",
     "identifier" : "standard",
     "faction" : ["galacticempire","scumandvillainy"]
   },
   {
-    "xws": "firepray31",
+    "xws": "firespray31",
     "image": "Ship_firespray31_emon.png",
     "identifier" : "emon",
     "faction" : ["scumandvillainy"]
   },
   {
-    "xws": "firepray31",
+    "xws": "firespray31",
     "image": "Ship_firespray31_kath.png",
     "identifier" : "kath",
     "faction" : ["galacticempire","scumandvillainy"]
   },
   {
-    "xws": "firepray31",
+    "xws": "firespray31",
     "image": "Ship_firespray31_merc.png",
     "identifier" : "merc",
     "faction" : ["scumandvillainy"]
   },
   {
-    "xws": "firepray31",
+    "xws": "firespray31",
     "image": "Ship_firespray31_bountyhunter.png",
     "identifier" : "bountyhunter",
     "faction" : ["galacticempire"]
   },
   {
-    "xws": "firepray31",
+    "xws": "firespray31",
     "image": "Ship_firespray31_krassis.png",
     "identifier" : "krassis",
     "faction" : ["galacticempire"]
