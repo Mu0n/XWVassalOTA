@@ -9,21 +9,20 @@
   </rdf:RDF>
 </metadata>
 <defs id="defs3031"/>
-<line style="stroke:#ff0000;stroke-width:1" x1="56.5" y1="63.5" x2="34.09" y2="47.5" />
-<line  style="stroke:#ff0000;stroke-width:1" x1="56.5" y1="63.5" x2="78.61" y2="47.5"/>
+
 
 <!-- left bullseye line -->
 <g fill="none" stroke-width="1.5" stroke="#ff0000">
-  <path stroke-dasharray="6,6" d="M 34.09,8 L 34.09,47.5"/>
+  <path stroke-dasharray="6,6" d="M 34.09,8 L 34.09,40"/>
 </g>
 
 
 <!-- right bullseye line -->
 <g fill="none" stroke-width="1.5" stroke="#ff0000">
-  <path stroke-dasharray="6,6" d="M 78.61,8 L 78.61,47.5"/>
+  <path stroke-dasharray="6,6" d="M 78.61,8 L 78.61,40"/>
 </g>
 
 
 <!-- fill -->
-<path style="fill:#ff0000;fill-opacity:.10" d="M 56.5,63.5 L 34.09,47.5 L 34.09,8 L 78.61,8 L 78.61,47.5 L 56.5,63.5 Z"/>
+<path style="fill:#ff0000;fill-opacity:.10" d="M 56.5,63.5 L 34.09,40 L 34.09,8 L 78.61,8 L 78.61,40 L 56.5,63.5 Z"/>
 </svg>
