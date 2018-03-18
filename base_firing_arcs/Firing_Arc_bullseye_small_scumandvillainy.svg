@@ -9,19 +9,21 @@
     </rdf:RDF>
   </metadata>
   <defs id="defs3031"/>
-  <line y2="47.5" style="stroke:#ffa500;stroke-width:1" x1="56.5" x2="42.5696" y1="63.5"/>
-  <line y2="47.5" style="stroke:#ffa500;stroke-width:1" x1="56.5" x2="70.1304" y1="63.5"/>
-  
+  <line style="stroke:#ffa500;stroke-width:1" x1="56.5" y1="63.5" x2="34.09" y2="47.5" />
+  <line  style="stroke:#ffa500;stroke-width:1" x1="56.5" y1="63.5" x2="78.61" y2="47.5"/>
+
   <!-- left bullseye line -->
-  <g fill="none" stroke-width="1.5" stroke="#ffa500">
-    <path stroke-dasharray="6,6" d="M 42.5696,8 L 42.5696,47.5"/>
-  </g>
+ <g fill="none" stroke-width="1.5" stroke="#ffa500">
+   <path stroke-dasharray="6,6" d="M 34.09,8 L 34.09,47.5"/>
+ </g>
+
 
   <!-- right bullseye line -->
-  <g fill="none" stroke-width="1.5" stroke="#ffa500">
-    <path stroke-dasharray="6,6" d="M 70.1304,8 L 70.1304,47.5"/>
-  </g>
+<g fill="none" stroke-width="1.5" stroke="#ffa500">
+  <path stroke-dasharray="6,6" d="M 78.61,8 L 78.61,47.5"/>
+</g>
+
   
   <!-- fill -->
-  <path style="fill:#ffa500;fill-opacity:.10" d="M 56.5,63.5 L 42.5696,47.5 L 42.5696,8 L 70.1304,8 L 70.1304,47.5 L 56.5,63.5 Z"/>
+  <path style="fill:#ffa500;fill-opacity:.10" d="M 56.5,63.5 L 34.09,47.5 L 34.09,8 L 78.61,8 L 78.61,47.5 L 56.5,63.5 Z"/>
 </svg>
