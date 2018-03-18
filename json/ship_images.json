@@ -46,18 +46,23 @@
   },
   {
     "xws": "bwing",
-    "image": "Ship_bwing_red.png",
-    "identifier" : "red"
+    "image": "Ship_bwing.png",
+    "identifier" : "standard"
   },
   {
     "xws": "bwing",
-    "image": "Ship_bwing_bluetop.png",
-    "identifier" : "bluetop"
+    "image": "Ship_bwing_top.png",
+    "identifier" : "top"
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing_blue.png",
     "identifier" : "blue"
+  },
+  {
+    "xws": "bwing",
+    "image": "Ship_bwing_bluetop.png",
+    "identifier" : "bluetop"
   },
   {
     "xws": "bwing",
@@ -68,11 +73,6 @@
     "xws": "bwing",
     "image": "Ship_bwing_daggertop.png",
     "identifier" : "daggertop"
-  },
-  {
-    "xws": "bwing",
-    "image": "Ship_bwing_top.png",
-    "identifier" : "top"
   },
   {
     "xws": "ewing",
