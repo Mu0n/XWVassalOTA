@@ -2,446 +2,535 @@
   {
     "xws": "aggressor",
     "image": "Ship_aggressor.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "alphaclassstarwing",
     "image": "Ship_alphaclassstarwing.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "arc170",
     "image": "Ship_arc170.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "attackshuttle",
     "image": "Ship_attackshuttle.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "auzituckgunship",
     "image": "Ship_auzituckgunship.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "awing",
     "image": "Ship_awing_red.png",
     "identifier" : "red"
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "awing",
     "image": "Ship_awing_green.png",
-    "identifier" : "green"
+    "identifier" : "green",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "awing",
     "image": "Ship_awing_blue.png",
-    "identifier" : "blue"
+    "identifier" : "blue",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bsf17bomber",
     "image": "Ship_bsf17bomber.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing_top.png",
-    "identifier" : "top"
+    "identifier" : "top",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing_blue.png",
-    "identifier" : "blue"
+    "identifier" : "blue",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing_bluetop.png",
-    "identifier" : "bluetop"
+    "identifier" : "bluetop",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing_dagger.png",
-    "identifier" : "dagger"
+    "identifier" : "dagger",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "bwing",
     "image": "Ship_bwing_daggertop.png",
-    "identifier" : "daggertop"
+    "identifier" : "daggertop",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "ewing",
     "image": "Ship_ewing.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "ewing",
     "image": "Ship_ewing_knave.png",
-    "identifier" : "knave"
+    "identifier" : "knave",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "firepray31",
     "image": "Ship_firespray31.png",
     "identifier" : "standard"
+    "faction" : ["galacticempire","scumandvillainy"]
   },
   {
     "xws": "firepray31",
     "image": "Ship_firespray31_emon.png",
-    "identifier" : "emon"
+    "identifier" : "emon",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "firepray31",
     "image": "Ship_firespray31_kath.png",
-    "identifier" : "kath"
+    "identifier" : "kath",
+    "faction" : ["galacticempire","scumandvillainy"]
   },
   {
     "xws": "firepray31",
     "image": "Ship_firespray31_merc.png",
-    "identifier" : "merc"
+    "identifier" : "merc",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "firepray31",
     "image": "Ship_firespray31_bountyhunter.png",
-    "identifier" : "bountyhunter"
+    "identifier" : "bountyhunter",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "firepray31",
     "image": "Ship_firespray31_krassis.png",
-    "identifier" : "krassis"
+    "identifier" : "krassis",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "g1astarfighter",
     "image": "Ship_g1astarfighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "hwk290",
     "image": "Ship_hwk290.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance","scumandvillainy"]
   },
   {
     "xws": "jumpmaster5000",
     "image": "Ship_jumpmaster5000.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "kihraxzfighter",
     "image": "Ship_kihraxzfighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "kihraxzfighter",
     "image": "Ship_kihraxzfighter_blacksunace.png",
-    "identifier" : "blacksunace"
+    "identifier" : "blacksunace",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "kihraxzfighter",
     "image": "Ship_kihraxzfighter_graz.png",
-    "identifier" : "graz"
+    "identifier" : "graz",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "kwing",
     "image": "Ship_kwing.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "kwing",
     "image": "Ship_kwing_esege.png",
-    "identifier" : "esege"
+    "identifier" : "esege",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "kwing",
     "image": "Ship_kwing_guardian.png",
-    "identifier" : "guardian"
+    "identifier" : "guardian",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "kwing",
     "image": "Ship_kwing_miranda.png",
-    "identifier" : "miranda"
+    "identifier" : "miranda",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "lambdaclassshuttle",
     "image": "Ship_lambdaclassshuttle.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "lancerclasspursuitcraft",
     "image": "Ship_lancerclasspursuitcraft.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "m12lkimogilafighter",
     "image": "Ship_m12lkimogilafighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "m3ainterceptor",
     "image": "Ship_m3ainterceptor.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "m3ainterceptor",
     "image": "Ship_m3ainterceptor_laetin.png",
-    "identifier" : "laetin"
+    "identifier" : "laetin",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "m3ainterceptor",
     "image": "Ship_m3ainterceptor_serissu.png",
-    "identifier" : "serissu"
+    "identifier" : "serissu",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "protectoratestarfighter",
     "image": "Ship_protectoratestarfighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "quadjumper",
     "image": "Ship_quadjumper.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "scurrgh6bomber",
     "image": "Ship_scurrgh6bomber.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance","scumandvillainy"]
   },
   {
     "xws": "sheathipedeclassshuttle",
     "image": "Ship_sheathipedeclassshuttle.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "starviper",
     "image": "Ship_starviper.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "t70xwing",
     "image": "Ship_t70xwing.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "t70xwing",
     "image": "Ship_t70xwing_blackone.png",
-    "identifier" : "blackone"
+    "identifier" : "blackone",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "tieadvanced",
     "image": "Ship_tieadvanced.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tieadvprototype",
     "image": "Ship_tieadvprototype.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tieaggressor",
     "image": "Ship_tieaggressor.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiebomber",
     "image": "Ship_tiebomber.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiebomber",
     "image": "Ship_tiebomber_veteran.png",
-    "identifier" : "veteran"
+    "identifier" : "veteran",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiedefender",
     "image": "Ship_tiedefender.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiedefender",
     "image": "Ship_tiedefender_veteran.png",
-    "identifier" : "veteran"
+    "identifier" : "veteran",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiefighter",
     "image": "Ship_tiefighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiefighter",
     "image": "Ship_tiefighter_sabinestie.png",
-    "identifier" : "sabinestie"
+    "identifier" : "sabinestie",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "tiefofighter",
     "image": "Ship_tiefofighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tieinterceptor",
     "image": "Ship_tieinterceptor.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tieinterceptor",
     "image": "Ship_tieinterceptor_181st.png",
-    "identifier" : "181st"
+    "identifier" : "181st",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tieinterceptor",
     "image": "Ship_tieinterceptor_royalguard.png",
-    "identifier" : "royalguard"
+    "identifier" : "royalguard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiephantom",
     "image": "Ship_tiephantom.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiepunisher",
     "image": "Ship_tiepunisher.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiesffighter",
     "image": "Ship_tiesffighter.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiesilencer",
     "image": "Ship_tiesilencer.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "tiestriker",
     "image": "Ship_tiestriker.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "upsilonclassshuttle",
     "image": "Ship_upsilonclassshuttle.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "uwing",
     "image": "Ship_uwing-attack.png",
-    "identifier" : "attack"
+    "identifier" : "attack",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "uwing",
     "image": "Ship_uwing-landing.png",
-    "identifier" : "landing"
+    "identifier" : "landing",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "vcx100",
     "image": "Ship_vcx100.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "vt49decimator",
     "image": "Ship_vt49decimator.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["galacticempire"]
   },
   {
     "xws": "xwing",
     "image": "Ship_xwing.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "xwing",
     "image": "Ship_xwing_red5.png",
-    "identifier" : "red5"
+    "identifier" : "red5",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "yt1300",
     "image": "Ship_yt1300.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "yt2400",
     "image": "Ship_yt2400.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "yt2400",
     "image": "Ship_yt2400_eaden.png",
-    "identifier" : "eaden"
+    "identifier" : "eaden",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "yt2400",
     "image": "Ship_yt2400_wildspacefringer.png",
-    "identifier" : "wildspacefringer"
+    "identifier" : "wildspacefringer",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "yv666",
     "image": "Ship_yv666.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "ywing",
     "image": "Ship_ywing_gold.png",
-    "identifier" : "gold"
+    "identifier" : "gold",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "ywing",
     "image": "Ship_ywing_gray.png",
-    "identifier" : "gray"
+    "identifier" : "gray",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "ywing",
     "image": "Ship_ywing_scum.png",
-    "identifier" : "scum"
+    "identifier" : "scum",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_airen.png",
-    "identifier" : "airen"
+    "identifier" : "airen",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_bandit.png",
-    "identifier" : "bandit"
+    "identifier" : "bandit",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_binayre.png",
-    "identifier" : "binayre"
+    "identifier" : "binayre",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_blacksun.png",
-    "identifier" : "blacksun"
+    "identifier" : "blacksun",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_blount.png",
-    "identifier" : "blount"
+    "identifier" : "blount",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_kaato.png",
-    "identifier" : "kaato"
+    "identifier" : "kaato",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_nashtah.png",
-    "identifier" : "nashtah"
+    "identifier" : "nashtah",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_ndru.png",
-    "identifier" : "ndru"
+    "identifier" : "ndru",
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_rebel.png",
-    "identifier" : "rebel"
+    "identifier" : "rebel",
+    "faction" : ["rebelalliance"]
   },
   {
     "xws": "z95headhunter",
     "image": "Ship_z95headhunter_tala.png",
-    "identifier" : "tala"
+    "identifier" : "tala",
+    "faction" : ["rebelalliance"]
   }
 ]
