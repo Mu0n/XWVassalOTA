@@ -32,7 +32,7 @@
   {
     "xws": "awing",
     "image": "Ship_awing_red.png",
-    "identifier" : "red"
+    "identifier" : "red",
     "faction" : ["rebelalliance"]
   },
   {
@@ -104,7 +104,7 @@
   {
     "xws": "firepray31",
     "image": "Ship_firespray31.png",
-    "identifier" : "standard"
+    "identifier" : "standard",
     "faction" : ["galacticempire","scumandvillainy"]
   },
   {
