@@ -3,7 +3,7 @@
     "xws": "aggressor",
     "image": "Ship_aggressor.png",
     "identifier" : "standard",
-    "faction" : ["galacticempire"]
+    "faction" : ["scumandvillainy"]
   },
   {
     "xws": "alphaclassstarwing",
