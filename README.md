@@ -15,6 +15,6 @@ Action_&lt;xws action, lower case, remove spaces&gt;.png
 Pilot_&lt;faction, lower case, remove spaces&gt;_&lt;ship xws&gt;_&lt;pilot xws&gt;.jpg
 
 <h3>Upgrades</h3>
-For card fronts: Upgrade_<upgradetype>_<xws>.jpg
-For unique card backs: Upgrade_<upgradetype>_<xws>_back.jpg
-For generic card backs: Upgrade_<upgradetype>_back.jpg
+For card fronts: Upgrade_<slotName>_<xws>.jpg
+<br>For unique card backs: Upgrade_<slotName>_<xws>_back.jpg
+<br>For generic card backs: Upgrade_<slotName>_back.jpg
