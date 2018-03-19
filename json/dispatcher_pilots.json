@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Test Pilot",
+    "id": 0,
+    "unique": true,
+    "ship": "U-Wing",
+    "skill": 6,
+    "points": 100,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Crew",
+      "Crew"
+    ],
+    "text": "Unknown",
+    "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
+    "faction": "Rebel Alliance",
+    "xws": "testpilot"
+  }
+
+]
