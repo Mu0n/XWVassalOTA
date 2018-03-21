@@ -3,7 +3,7 @@
     "name": "Test Pilot",
     "id": 0,
     "unique": true,
-    "ship": "U-Wing",
+    "ship": "testship",
     "skill": 6,
     "points": 100,
     "slots": [
