@@ -16,6 +16,24 @@
     "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
     "faction": "Rebel Alliance",
     "xws": "testpilot"
+  },
+  {
+    "name": "Test Pilot2",
+    "id": 0,
+    "unique": true,
+    "ship": "testship2",
+    "skill": 6,
+    "points": 100,
+    "slots": [
+      "System",
+      "Torpedo",
+      "Crew",
+      "Crew"
+    ],
+    "text": "Unknown",
+    "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
+    "faction": "Rebel Alliance",
+    "xws": "testpilot2"
   }
 
 ]
