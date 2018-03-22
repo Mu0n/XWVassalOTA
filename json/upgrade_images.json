@@ -306,6 +306,11 @@
   },
   {
     "slot": "Crew",
+    "xws": "back",
+    "image": "Upgrade_Crew_back.jpg"
+  },
+  {
+    "slot": "Crew",
     "xws": "bazemalbus",
     "image": "Upgrade_Crew_bazemalbus.jpg"
   },
