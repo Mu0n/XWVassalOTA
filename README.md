@@ -20,5 +20,5 @@ Pilot_&lt;faction, lower case, remove spaces&gt;_&lt;ship xws&gt;_&lt;pilot xws&
 <br><b>For generic card backs:</b> Upgrade_&lt;slotName, lowercase, remove spaces&gt;_back.jpg
 
 <h3>Condition</h3>
-<b>Cards:</b> Condition_&lt;xws&gt;_font.jpg and Condition_&lt;xws&gt;_back.jpg
-<br><b>Tokens:</b> Condition_&lt;xws&gt;_token.png
+<b>Cards:</b> Condition_&lt;xws&gt;.jpg
+<br><b>Tokens:</b> ConditionToken_&lt;xws&gt;.png
