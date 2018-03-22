@@ -1241,11 +1241,6 @@
   },
   {
     "slot": "Modification",
-    "xws": "royalguardtie",
-    "image": "Upgrade_Modification_royalguardtie.jpg"
-  },
-  {
-    "slot": "Modification",
     "xws": "shieldupgrade",
     "image": "Upgrade_Modification_shieldupgrade.jpg"
   },
@@ -1693,6 +1688,11 @@
     "slot": "Title",
     "xws": "requiem",
     "image": "Upgrade_Title_requiem.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "royalguardtie",
+    "image": "Upgrade_Title_royalguardtie.jpg"
   },
   {
     "slot": "Title",
