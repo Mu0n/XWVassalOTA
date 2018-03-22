@@ -1,49 +1,41 @@
 [
   {
     "frontimage": "Condition_illshowyouthedarkside_front.jpg",
-    "backimage": "Condition_illshowyouthedarkside_back.jpg",
     "tokenimage": "Condition_illshowyouthedarkside_token.png",
     "xws": "illshowyouthedarkside"
   },
   {
     "frontimage": "Condition_fanaticaldevotion_front.jpg",
-    "backimage": "Condition_fanaticaldevotion_back.jpg",
     "tokenimage": "Condition_fanaticaldevotion_token.png",
     "xws": "fanaticaldevotion"
   },
   {
     "frontimage": "Condition_suppressivefire_front.jpg",
-    "backimage": "Condition_suppressivefire_back.jpg",
     "tokenimage": "Condition_suppressivefire_token.png",
     "xws": "suppressivefire"
   },
   {
     "frontimage": "Condition_adebttopay_front.jpg",
-    "backimage": "Condition_adebttopay_back.jpg",
     "tokenimage": "Condition_adebttopay_token.png",
     "xws": "adebttopay"
   },
   {
     "frontimage": "Condition_mimicked_front.jpg",
-    "backimage": "Condition_mimicked_back.jpg",
     "tokenimage": "Condition_mimicked_token.png",
     "xws": "mimicked"
   },
   {
     "frontimage": "Condition_shadowed_front.jpg",
-    "backimage": "Condition_shadowed_back.jpg",
     "tokenimage": "Condition_shadowed_token.png",
     "xws": "shadowed"
   },
   {
     "frontimage": "Condition_harpooned_front.jpg",
-    "backimage": "Condition_harpooned_back.jpg",
     "tokenimage": "Condition_harpooned_token.png",
     "xws": "harpooned"
   },
   {
     "frontimage": "Condition_rattled_front.jpg",
-    "backimage": "Condition_rattled_back.jpg",
     "tokenimage": "Condition_rattled_token.png",
     "xws": "rattled"
   }
