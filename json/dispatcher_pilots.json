@@ -61,6 +61,9 @@
     "text": "Unknown",
     "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
     "faction": "Scum and Villainy",
-    "xws": "testpilot3"
+    "xws": "testpilot3",
+    "conditions": [
+      "Test Condition"
+    ]
   }
 ]
