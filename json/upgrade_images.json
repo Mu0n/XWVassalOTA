@@ -1,1775 +1,1857 @@
 [
   {
-    "slot": "Turret",
-    "image": "",
-    "xws": "ioncannonturret"
-  },
-  {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "protontorpedoes"
+    "slot": "Astromech",
+    "xws": "back",
+    "image": "Upgrade_Astromech_back.jpg"
   },
   {
     "slot": "Astromech",
-    "image": "",
-    "xws": "r2astromech"
+    "xws": "bb8",
+    "image": "Upgrade_Astromech_bb8.jpg"
   },
   {
     "slot": "Astromech",
-    "image": "",
-    "xws": "r2d2"
+    "xws": "chopper-swx72",
+    "image": "Upgrade_Astromech_chopper-swx72.jpg"
   },
   {
     "slot": "Astromech",
-    "image": "",
-    "xws": "r2f2"
+    "xws": "flightassistastromech",
+    "image": "Upgrade_Astromech_flightassistastromech.jpg"
   },
   {
     "slot": "Astromech",
-    "image": "",
-    "xws": "r5d8"
+    "xws": "m9g8",
+    "image": "Upgrade_Astromech_m9g8.jpg"
   },
   {
     "slot": "Astromech",
-    "image": "",
-    "xws": "r5k6"
+    "xws": "r2astromech",
+    "image": "Upgrade_Astromech_r2astromech.jpg"
   },
   {
     "slot": "Astromech",
-    "image": "",
-    "xws": "r5astromech"
+    "xws": "r2d2",
+    "image": "Upgrade_Astromech_r2d2.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "determination"
+    "slot": "Astromech",
+    "xws": "r2d6",
+    "image": "Upgrade_Astromech_r2d6.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "swarmtactics"
+    "slot": "Astromech",
+    "xws": "r2f2",
+    "image": "Upgrade_Astromech_r2f2.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "squadleader"
+    "slot": "Astromech",
+    "xws": "r3a2",
+    "image": "Upgrade_Astromech_r3a2.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "experthandling"
+    "slot": "Astromech",
+    "xws": "r3astromech",
+    "image": "Upgrade_Astromech_r3astromech.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "marksmanship"
+    "slot": "Astromech",
+    "xws": "r4d6",
+    "image": "Upgrade_Astromech_r4d6.jpg"
   },
   {
-    "slot": "Missile",
-    "image": "",
-    "xws": "concussionmissiles"
+    "slot": "Astromech",
+    "xws": "r5astromech",
+    "image": "Upgrade_Astromech_r5astromech.jpg"
   },
   {
-    "slot": "Missile",
-    "image": "",
-    "xws": "clustermissiles"
+    "slot": "Astromech",
+    "xws": "r5d8",
+    "image": "Upgrade_Astromech_r5d8.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "daredevil"
+    "slot": "Astromech",
+    "xws": "r5k6",
+    "image": "Upgrade_Astromech_r5k6.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "elusiveness"
+    "slot": "Astromech",
+    "xws": "r5p9",
+    "image": "Upgrade_Astromech_r5p9.jpg"
   },
   {
-    "slot": "Missile",
-    "image": "",
-    "xws": "homingmissiles"
+    "slot": "Astromech",
+    "xws": "r5x3",
+    "image": "Upgrade_Astromech_r5x3.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "pushthelimit"
+    "slot": "Astromech",
+    "xws": "r7astromech",
+    "image": "Upgrade_Astromech_r7astromech.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "deadeye"
+    "slot": "Astromech",
+    "xws": "r7t1",
+    "image": "Upgrade_Astromech_r7t1.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "expose"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "gunner"
-  },
-  {
-    "slot": "Cannon",
-    "image": "",
-    "xws": "ioncannon"
-  },
-  {
-    "slot": "Cannon",
-    "image": "",
-    "xws": "heavylasercannon"
+    "slot": "Astromech",
+    "xws": "targetingastromech",
+    "image": "Upgrade_Astromech_targetingastromech.jpg"
   },
   {
     "slot": "Bomb",
-    "image": "",
-    "xws": "seismiccharges"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "mercenarycopilot"
-  },
-  {
-    "slot": "Missile",
-    "image": "",
-    "xws": "assaultmissiles"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "veteraninstincts"
+    "xws": "back",
+    "image": "Upgrade_Bomb_back.jpg"
   },
   {
     "slot": "Bomb",
-    "image": "",
-    "xws": "proximitymines"
+    "xws": "bombletgenerator",
+    "image": "Upgrade_Bomb_bombletgenerator.jpg"
   },
   {
-    "slot": "Crew",
-    "image": "",
-    "xws": "weaponsengineer"
+    "slot": "Bomb",
+    "xws": "clustermines",
+    "image": "Upgrade_Bomb_clustermines.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "drawtheirfire"
+    "slot": "Bomb",
+    "xws": "connernet",
+    "image": "Upgrade_Bomb_connernet.jpg"
   },
   {
-    "slot": "Crew",
-    "image": "",
-    "xws": "lukeskywalker"
+    "slot": "Bomb",
+    "xws": "ionbombs",
+    "image": "Upgrade_Bomb_ionbombs.jpg"
   },
   {
-    "slot": "Crew",
-    "image": "",
-    "xws": "niennunb"
+    "slot": "Bomb",
+    "xws": "ordnancesilos",
+    "image": "Upgrade_Bomb_ordnancesilos.jpg"
   },
   {
-    "slot": "Crew",
-    "image": "",
-    "xws": "chewbacca"
+    "slot": "Bomb",
+    "xws": "protonbombs",
+    "image": "Upgrade_Bomb_protonbombs.jpg"
   },
   {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "advprotontorpedoes"
+    "slot": "Bomb",
+    "xws": "proximitymines",
+    "image": "Upgrade_Bomb_proximitymines.jpg"
+  },
+  {
+    "slot": "Bomb",
+    "xws": "seismiccharges",
+    "image": "Upgrade_Bomb_seismiccharges.jpg"
+  },
+  {
+    "slot": "Bomb",
+    "xws": "thermaldetonators",
+    "image": "Upgrade_Bomb_thermaldetonators.jpg"
   },
   {
     "slot": "Cannon",
-    "image": "",
-    "xws": "autoblaster"
-  },
-  {
-    "slot": "System",
-    "image": "",
-    "xws": "firecontrolsystem"
-  },
-  {
-    "slot": "Turret",
-    "image": "",
-    "xws": "blasterturret"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "reconspecialist"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "saboteur"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "intelligenceagent"
-  },
-  {
-    "slot": "Bomb",
-    "image": "",
-    "xws": "protonbombs"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "adrenalinerush"
-  },
-  {
-    "slot": "System",
-    "image": "",
-    "xws": "advancedsensors"
-  },
-  {
-    "slot": "System",
-    "image": "",
-    "xws": "sensorjammer"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "darthvader"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "rebelcaptive"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "flightinstructor"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "navigator"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "opportunist"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "commsbooster"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "slicertools"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "shieldprojector"
-  },
-  {
-    "slot": "Missile",
-    "image": "",
-    "xws": "ionpulsemissiles"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "wingman"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "decoy"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "outmaneuver"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "predator"
-  },
-  {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "flechettetorpedoes"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r7astromech"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r7t1"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "tactician"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "r2d2-swx22"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "c3po"
-  },
-  {
-    "slot": "Hardpoint",
-    "image": "",
-    "xws": "singleturbolasers"
-  },
-  {
-    "slot": "Hardpoint",
-    "image": "",
-    "xws": "quadlasercannons"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "tibannagassupplies"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "ionizationreactor"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "enginebooster"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r3a2"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r2d6"
-  },
-  {
-    "slot": "System",
-    "image": "",
-    "xws": "enhancedscopes"
-  },
-  {
-    "slot": "Missile",
-    "image": "",
-    "xws": "chardaanrefit"
-  },
-  {
-    "slot": "Missile",
-    "image": "",
-    "xws": "protonrockets"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "kylekatarn"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "janors"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "torynfarr"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r4d6"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r5p9"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "wed15repairdroid"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "carlistrieekan"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "jandodonna"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "expandedcargohold"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "backupshieldgenerator"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "ememitter"
-  },
-  {
-    "slot": "Cargo",
-    "image": "",
-    "xws": "frequencyjammer"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "hansolo"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "leiaorgana"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "targetingcoordinator"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "raymusantilles"
-  },
-  {
-    "slot": "Team",
-    "image": "",
-    "xws": "gunneryteam"
-  },
-  {
-    "slot": "Team",
-    "image": "",
-    "xws": "sensorteam"
-  },
-  {
-    "slot": "Team",
-    "image": "",
-    "xws": "engineeringteam"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "landocalrissian"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "marajade"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "fleetofficer"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "stayontarget"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "dashrendar"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "leebo"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "lonewolf"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "ysanneisard"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "moffjerjerrod"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "ruthlessness"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "intimidation"
-  },
-  {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "iontorpedoes"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "greedo"
-  },
-  {
-    "slot": "System",
-    "image": "",
-    "xws": "accuracycorrector"
-  },
-  {
-    "slot": "Illicit",
-    "image": "",
-    "xws": "inertialdampeners"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "bodyguard"
-  },
-  {
-    "slot": "Salvaged Astromech",
-    "image": "",
-    "xws": "unhingedastromech"
-  },
-  {
-    "slot": "Salvaged Astromech",
-    "image": "",
-    "xws": "genius"
-  },
-  {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "bombloadout"
-  },
-  {
-    "slot": "Salvaged Astromech",
-    "image": "",
-    "xws": "salvagedastromech"
-  },
-  {
-    "slot": "Illicit",
-    "image": "",
-    "xws": "deadmansswitch"
-  },
-  {
-    "slot": "Illicit",
-    "image": "",
-    "xws": "feedbackarray"
-  },
-  {
-    "slot": "Illicit",
-    "image": "",
-    "xws": "hotshotblaster"
-  },
-  {
-    "slot": "Turret",
-    "image": "",
-    "xws": "autoblasterturret"
-  },
-  {
-    "slot": "Salvaged Astromech",
-    "image": "",
-    "xws": "r4agromech"
-  },
-  {
-    "slot": "Salvaged Astromech",
-    "image": "",
-    "xws": "r4b11"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "outlawtech"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "k4securitydroid"
-  },
-  {
-    "slot": "System",
-    "image": "",
-    "xws": "advtargetingcomputer"
-  },
-  {
-    "slot": "Hardpoint",
-    "image": "",
-    "xws": "ioncannonbattery"
+    "xws": "arccaster",
+    "image": "Upgrade_Cannon_arccaster.jpg"
   },
   {
     "slot": "Cannon",
-    "image": "",
-    "xws": "flechettecannon"
+    "xws": "arccaster",
+    "image": "Upgrade_Cannon_arccaster_back.jpg"
   },
   {
     "slot": "Cannon",
-    "image": "",
-    "xws": "manglercannon"
+    "xws": "autoblaster",
+    "image": "Upgrade_Cannon_autoblaster.jpg"
   },
   {
-    "slot": "Elite",
-    "image": "",
-    "xws": "calculation"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "grandmofftarkin"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "captainneeda"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "admiralozzel"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "emperorpalpatine"
-  },
-  {
-    "slot": "Illicit",
-    "image": "",
-    "xws": "glitterstim"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "bossk"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "houndstooth"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "lightningreflexes"
-  },
-  {
-    "slot": "Bomb",
-    "image": "",
-    "xws": "ionbombs"
-  },
-  {
-    "slot": "Bomb",
-    "image": "",
-    "xws": "connernet"
-  },
-  {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "plasmatorpedoes"
-  },
-  {
-    "slot": "Torpedo",
-    "image": "",
-    "xws": "extramunitions"
-  },
-  {
-    "slot": "Turret",
-    "image": "",
-    "xws": "twinlaserturret"
-  },
-  {
-    "slot": "Bomb",
-    "image": "",
-    "xws": "clustermines"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "bombardier"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "crackshot"
-  },
-  {
-    "slot": "Missile",
-    "image": "",
-    "xws": "advhomingmissiles"
-  },
-  {
-    "slot": "Crew",
-    "image": "",
-    "xws": "shieldtechnician"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "bb8"
-  },
-  {
-    "slot": "Astromech",
-    "image": "",
-    "xws": "r5x3"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "coolhand"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "juke"
-  },
-  {
-    "slot": "Elite",
-    "image": "",
-    "xws": "wired"
-  },
-  {
-    "slot": "Tech",
-    "image": "",
-    "xws": "commrelay"
-  },
-  {
-    "slot": "Tech",
-    "image": "",
-    "xws": "weaponsguidance"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "slavei"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "millenniumfalcon"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "moldycrow"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "st321"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "royalguardtie"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "dodonnaspride"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "awingtestpilot"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "tantiveiv"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "brighthope"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "quantumstorm"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "dutyfree"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "jainaslight"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "outrider"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "dauntless"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "heavyscykinterceptor"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "ig2000"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "virago"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "andrasta"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "btla4ywing"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "tiex1"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "assailer"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "instigator"
-  },
-  {
-    "slot": "Title",
-    "unique": true,
-    "image": "",
-    "xws": "impetuous"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "stealthdevice"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "shieldupgrade"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "engineupgrade"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "antipursuitlasers"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "targetingcomputer"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "hullupgrade"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "munitionsfailsafe"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "stygiumparticleaccelerator"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "advancedcloakingdevice"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "combatretrofit"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "bwinge2"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "experimentalinterface"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "countermeasures"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "tacticaljammer"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "autothrusters"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "advancedslam"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "twinionenginemkii"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "maneuveringfins"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "ionprojector"
-  },
-  {
-    "slot": "Modification",
-    "image": "",
-    "xws": "integratedastromech"
-  },
-  {
-    "image": "",
-    "slot": "Title",
-    "xws": "punishingone"
-  },
-  {
-    "image": "",
     "slot": "Cannon",
-    "xws": "tractorbeam"
+    "xws": "back",
+    "image": "Upgrade_Cannon_back.jpg"
   },
   {
-    "image": "",
-    "slot": "Illicit",
-    "xws": "cloakingdevice"
+    "slot": "Cannon",
+    "xws": "flechettecannon",
+    "image": "Upgrade_Cannon_flechettecannon.jpg"
   },
   {
-    "image": "",
-    "slot": "Title",
-    "xws": "phantom"
+    "slot": "Cannon",
+    "xws": "heavylasercannon",
+    "image": "Upgrade_Cannon_heavylasercannon.jpg"
   },
   {
-    "image": "",
-    "slot": "Title",
-    "xws": "ghost"
+    "slot": "Cannon",
+    "xws": "ioncannon",
+    "image": "Upgrade_Cannon_ioncannon.jpg"
   },
   {
-    "image": "",
-    "slot": "Missile",
-    "xws": "xx23sthreadtracers"
+    "slot": "Cannon",
+    "xws": "jammingbeam",
+    "image": "Upgrade_Cannon_jammingbeam.jpg"
   },
   {
-    "image": "",
-    "slot": "Crew",
-    "xws": "agentkallus"
+    "slot": "Cannon",
+    "xws": "linkedbattery",
+    "image": "Upgrade_Cannon_linkedbattery.jpg"
   },
   {
-    "image": "",
-    "slot": "Team",
-    "xws": "ordnanceexperts"
+    "slot": "Cannon",
+    "xws": "manglercannon",
+    "image": "Upgrade_Cannon_manglercannon.jpg"
   },
   {
-    "image": "",
-    "slot": "Modification",
-    "xws": "automatedprotocols"
+    "slot": "Cannon",
+    "xws": "tractorbeam",
+    "image": "Upgrade_Cannon_tractorbeam.jpg"
   },
   {
-    "image": "",
-    "slot": "Modification",
-    "xws": "optimizedgenerators"
-  },
-  {
-    "image": "",
-    "slot": "Modification",
-    "xws": "ordnancetubes"
-  },
-  {
-    "image": "",
     "slot": "Cargo",
-    "xws": "broadcastarray"
+    "xws": "back",
+    "image": "Upgrade_Cargo_back.jpg"
   },
   {
-    "image": "",
     "slot": "Cargo",
-    "xws": "dockingclamps"
+    "xws": "backupshieldgenerator",
+    "image": "Upgrade_Cargo_backupshieldgenerator.jpg"
   },
   {
-    "image": "",
-    "slot": "Hardpoint",
-    "xws": "duallaserturret"
-  },
-  {
-    "slot": "Title",
-    "image": "",
-    "xws": "tiev1"
-  },
-  {
-    "slot": "Title",
-    "xws": "misthunter",
-    "image": ""
-  },
-  {
-    "image": "",
-    "slot": "Crew",
-    "xws": "kananjarrus"
-  },
-  {
-    "image": "",
-    "slot": "Crew",
-    "xws": "zeborrelios"
-  },
-  {
-    "image": "",
-    "slot": "Turret",
-    "xws": "dorsalturret"
-  },
-  {
-    "image": "",
-    "slot": "System",
-    "xws": "reinforceddeflectors"
-  },
-  {
-    "image": "",
-    "slot": "Astromech",
-    "xws": "targetingastromech"
-  },
-  {
-    "image": "",
-    "slot": "Crew",
-    "xws": "ezrabridger"
-  },
-  {
-    "image": "",
-    "slot": "Crew",
-    "xws": "chopper"
-  },
-  {
-    "image": "",
-    "slot": "Crew",
-    "xws": "herasyndulla"
-  },
-  {
-    "image": "",
-    "slot": "Crew",
-    "xws": "sabinewren"
-  },
-  {
-    "image": "",
-    "slot": "Title",
-    "xws": "tiex7"
-  },
-  {
-    "image": "",
-    "slot": "Title",
-    "xws": "tied"
-  },
-  {
-    "slot": "Title",
-    "xws": "tieshuttle",
-    "image": ""
-  },
-  {
-    "image": "",
-    "slot": "Modification",
-    "xws": "longrangescanners"
-  },
-  {
-    "slot": "Crew",
-    "xws": "constructiondroid",
-    "image": ""
-  },
-  {
-    "slot": "Crew",
-    "xws": "rearadmiralchiraneau",
-    "image": ""
+    "slot": "Cargo",
+    "xws": "broadcastarray",
+    "image": "Upgrade_Cargo_broadcastarray.jpg"
   },
   {
     "slot": "Cargo",
     "xws": "clusterbombs",
-    "image": ""
+    "image": "Upgrade_Cargo_clusterbombs.jpg"
   },
   {
-    "slot": "Title",
-    "image": "",
-    "xws": "requiem"
+    "slot": "Cargo",
+    "xws": "commsbooster",
+    "image": "Upgrade_Cargo_commsbooster.jpg"
   },
   {
-    "slot": "Title",
-    "image": "",
-    "xws": "vector"
+    "slot": "Cargo",
+    "xws": "dockingclamps",
+    "image": "Upgrade_Cargo_dockingclamps.jpg"
   },
   {
-    "slot": "Title",
-    "image": "",
-    "xws": "suppressor"
+    "slot": "Cargo",
+    "xws": "ememitter",
+    "image": "Upgrade_Cargo_ememitter.jpg"
   },
   {
-    "image": "",
-    "slot": "Modification",
-    "xws": "guidancechips"
+    "slot": "Cargo",
+    "xws": "enginebooster",
+    "image": "Upgrade_Cargo_enginebooster.jpg"
   },
   {
-    "image": "",
-    "xws": "zuckuss",
-    "slot": "Crew"
+    "slot": "Cargo",
+    "xws": "expandedcargohold",
+    "image": "Upgrade_Cargo_expandedcargohold.jpg"
   },
   {
-    "image": "",
-    "xws": "4lom",
-    "slot": "Crew"
+    "slot": "Cargo",
+    "xws": "frequencyjammer",
+    "image": "Upgrade_Cargo_frequencyjammer.jpg"
   },
   {
-    "image": "",
-    "xws": "adaptability",
-    "slot": "Elite",
-    "backimage": "Upgrade_elite_adaptability_back.jpg"
+    "slot": "Cargo",
+    "xws": "ionizationreactor",
+    "image": "Upgrade_Cargo_ionizationreactor.jpg"
   },
   {
-    "image": "",
-    "xws": "electronicbaffle",
-    "slot": "System"
-  },
-  {
-    "image": "",
-    "xws": "rage",
-    "slot": "Elite"
-  },
-  {
-    "image": "",
-    "xws": "attannimindlink",
-    "slot": "Elite"
-  },
-  {
-    "image": "",
-    "xws": "r5p8",
-    "slot": "Salvaged Astromech"
-  },
-  {
-    "image": "",
-    "xws": "bobafett",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "gonk",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "dengar",
-    "slot": "Crew"
-  },
-  {
-    "xws": "overclockedr4",
-    "slot": "Salvaged Astromech",
-    "image": ""
-  },
-  {
-    "xws": "thermaldetonators",
-    "slot": "Bomb",
-    "image": ""
-  },
-  {
-    "xws": "millenniumfalcon-swx57",
-    "image": "",
-    "slot": "Title"
-  },
-  {
-    "xws": "blackone",
-    "slot": "Title",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "systemsofficer",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "allianceoverhaul",
-    "slot": "Title"
-  },
-  {
-    "xws": "specialopstraining",
-    "image": "",
-    "slot": "Title"
-  },
-  {
-    "xws": "concorddawnprotector",
-    "slot": "Title",
-    "image": ""
-  },
-  {
-    "xws": "shadowcaster",
-    "slot": "Title",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "r3astromech",
-    "slot": "Astromech"
-  },
-  {
-    "image": "",
-    "xws": "vectoredthrusters",
-    "slot": "Modification"
-  },
-  {
-    "image": "",
-    "xws": "tailgunner",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "collisiondetector",
-    "slot": "System"
-  },
-  {
-    "image": "",
-    "xws": "sensorcluster",
-    "slot": "Tech"
-  },
-  {
-    "image": "",
-    "xws": "fearlessness",
-    "slot": "Elite"
-  },
-  {
-    "image": "",
-    "xws": "ig88d",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "lattsrazzi",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "ketsuonyo",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "seismictorpedo",
-    "slot": "Torpedo"
-  },
-  {
-    "image": "",
-    "xws": "riggedcargochute",
-    "slot": "Illicit"
-  },
-  {
-    "xws": "gyroscopictargeting",
-    "slot": "Modification",
-    "image": ""
-  },
-  {
-    "xws": "blackmarketslicertools",
-    "slot": "Illicit",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "sabinesmasterpiece",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "kyloren",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "unkarplutt",
-    "slot": "Crew"
-  },
-  {
-    "xws": "kylorensshuttle",
-    "slot": "Title",
-    "image": ""
-  },
-  {
-    "xws": "ascoretosettle",
-    "slot": "Elite",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "jynerso",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "cassianandor",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "adaptiveailerons",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "pivotwing",
-    "slot": "Title",
-    "backimage": "Upgrade_title_pivotwing_back.jpg"
-  },
-  {
-    "image": "",
-    "xws": "smugglingcompartment",
-    "slot": "Modification"
-  },
-  {
-    "image": "",
-    "xws": "burnoutslam",
-    "slot": "Illicit"
-  },
-  {
-    "image": "",
-    "xws": "rey",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "finn",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "primedthrusters",
-    "slot": "Tech"
-  },
-  {
-    "image": "",
-    "xws": "patternanalyzer",
-    "slot": "Tech"
-  },
-  {
-    "image": "",
-    "xws": "snapshot",
-    "slot": "Elite"
-  },
-  {
-    "image": "",
-    "xws": "m9g8",
-    "slot": "Astromech"
-  },
-  {
-    "xws": "hotshotcopilot",
-    "slot": "Crew",
-    "image": ""
-  },
-  {
-    "xws": "trickshot",
-    "slot": "Elite",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "empdevice",
-    "slot": "Illicit"
-  },
-  {
-    "image": "",
-    "xws": "capturedtie",
-    "slot": "Modification"
-  },
-  {
-    "image": "",
-    "xws": "captainrex",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "generalhux",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "operationsspecialist",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "targetingsynchronizer",
-    "slot": "Tech"
-  },
-  {
-    "image": "",
-    "xws": "hyperwavecommscanner",
-    "slot": "Tech"
-  },
-  {
-    "image": "",
-    "xws": "bodhirook",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "bazemalbus",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "inspiringrecruit",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "scavengercrane",
-    "slot": "Illicit"
-  },
-  {
-    "image": "",
-    "xws": "spacetugtractorarray",
-    "slot": "Modification"
-  },
-  {
-    "image": "",
-    "xws": "swarmleader",
-    "slot": "Elite"
-  },
-  {
-    "image": "",
-    "xws": "lightweightframe",
-    "slot": "Modification"
-  },
-  {
-    "xws": "expertise",
-    "slot": "Elite",
-    "image": ""
-  },
-  {
-    "xws": "bistan",
-    "slot": "Crew",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "heavylaserturret",
-    "slot": "Hardpoint"
-  },
-  {
-    "image": "",
-    "xws": "cikatrovizago",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "azmorigan",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "merchantone",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "lightscykinterceptor",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "boshek",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
-    "xws": "brokenhorn",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "insatiableworrt",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "superchargedpowercells",
-    "slot": "Cargo"
-  },
-  {
-    "image": "",
+    "slot": "Cargo",
     "xws": "quickreleasecargolocks",
-    "slot": "Cargo"
+    "image": "Upgrade_Cargo_quickreleasecargolocks.jpg"
   },
   {
-    "image": "",
-    "xws": "pulsedrayshield",
-    "slot": "Modification"
+    "slot": "Cargo",
+    "xws": "shieldprojector",
+    "image": "Upgrade_Cargo_shieldprojector.jpg"
   },
   {
-    "image": "",
-    "xws": "arccaster",
-    "slot": "Cannon",
-    "backimage": "Upgrade_cannon_arccaster_back.jpg"
+    "slot": "Cargo",
+    "xws": "slicertools",
+    "image": "Upgrade_Cargo_slicertools.jpg"
   },
   {
-    "image": "",
-    "xws": "unguidedrockets",
-    "slot": "Missile"
+    "slot": "Cargo",
+    "xws": "superchargedpowercells",
+    "image": "Upgrade_Cargo_superchargedpowercells.jpg"
   },
   {
-    "image": "",
-    "xws": "havoc",
-    "slot": "Title"
+    "slot": "Cargo",
+    "xws": "tibannagassupplies",
+    "image": "Upgrade_Cargo_tibannagassupplies.jpg"
   },
   {
-    "image": "",
-    "xws": "syncedturret",
-    "slot": "Turret"
+    "slot": "Crew",
+    "xws": "4lom",
+    "image": "Upgrade_Crew_4lom.jpg"
   },
   {
-    "image": "",
-    "xws": "wookieecommandos",
-    "slot": "Crew"
+    "slot": "Crew",
+    "xws": "admiralozzel",
+    "image": "Upgrade_Crew_admiralozzel.jpg"
   },
   {
-    "image": "",
-    "xws": "jabbathehutt",
-    "slot": "Crew"
+    "slot": "Crew",
+    "xws": "agentkallus",
+    "image": "Upgrade_Crew_agentkallus.jpg"
   },
   {
-    "image": "",
-    "xws": "intensity",
-    "slot": "Elite",
-    "backimage": "Upgrade_elite_intensity_back.jpg"
+    "slot": "Crew",
+    "xws": "azmorigan",
+    "image": "Upgrade_Crew_azmorigan.jpg"
   },
   {
-    "image": "",
-    "xws": "vaksai",
-    "slot": "Title"
+    "slot": "Crew",
+    "xws": "bazemalbus",
+    "image": "Upgrade_Crew_bazemalbus.jpg"
   },
   {
-    "image": "",
-    "xws": "starvipermkii",
-    "slot": "Title"
+    "slot": "Crew",
+    "xws": "bistan",
+    "image": "Upgrade_Crew_bistan.jpg"
   },
   {
-    "xws": "igrmthugdroids",
-    "slot": "Team",
-    "image": ""
+    "slot": "Crew",
+    "xws": "bobafett",
+    "image": "Upgrade_Crew_bobafett.jpg"
   },
   {
-    "image": "",
-    "xws": "selflessness",
-    "slot": "Elite"
+    "slot": "Crew",
+    "xws": "bodhirook",
+    "image": "Upgrade_Crew_bodhirook.jpg"
   },
   {
-    "image": "",
+    "slot": "Crew",
+    "xws": "bombardier",
+    "image": "Upgrade_Crew_bombardier.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "boshek",
+    "image": "Upgrade_Crew_boshek.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "bossk",
+    "image": "Upgrade_Crew_bossk.jpg"
+  },
+  {
+    "slot": "Crew",
     "xws": "breachspecialist",
-    "slot": "Crew"
+    "image": "Upgrade_Crew_breachspecialist.jpg"
   },
   {
-    "image": "",
-    "xws": "bombletgenerator",
-    "slot": "Bomb"
+    "slot": "Crew",
+    "xws": "c3po",
+    "image": "Upgrade_Crew_c3po.jpg"
   },
   {
-    "image": "",
+    "slot": "Crew",
     "xws": "cadbane",
-    "slot": "Crew"
+    "image": "Upgrade_Crew_cadbane.jpg"
   },
   {
-    "image": "",
-    "xws": "minefieldmapper",
-    "slot": "System"
+    "slot": "Crew",
+    "xws": "captainneeda",
+    "image": "Upgrade_Crew_captainneeda.jpg"
   },
   {
-    "xws": "r4e1",
-    "slot": "Salvaged Astromech",
-    "image": ""
+    "slot": "Crew",
+    "xws": "captainrex",
+    "image": "Upgrade_Crew_captainrex.jpg"
   },
   {
-    "xws": "cruisemissiles",
-    "slot": "Missile",
-    "image": ""
+    "slot": "Crew",
+    "xws": "carlistrieekan",
+    "image": "Upgrade_Crew_carlistrieekan.jpg"
   },
   {
-    "image": "",
-    "xws": "iondischargers",
-    "slot": "Illicit"
+    "slot": "Crew",
+    "xws": "cassianandor",
+    "image": "Upgrade_Crew_cassianandor.jpg"
   },
   {
-    "image": "",
-    "xws": "harpoonmissiles",
-    "slot": "Missile"
+    "slot": "Crew",
+    "xws": "chewbacca",
+    "image": "Upgrade_Crew_chewbacca.jpg"
   },
   {
-    "image": "",
-    "xws": "xg1assaultconfiguration",
-    "slot": "Title"
+    "slot": "Crew",
+    "xws": "chopper",
+    "image": "Upgrade_Crew_chopper.jpg"
   },
   {
-    "xws": "enforcer",
-    "slot": "Title",
-    "image": ""
+    "slot": "Crew",
+    "xws": "cikatrovizago",
+    "image": "Upgrade_Crew_cikatrovizago.jpg"
   },
   {
-    "image": "",
-    "xws": "ghost-swx72",
-    "slot": "Title"
+    "slot": "Crew",
+    "xws": "constructiondroid",
+    "image": "Upgrade_Crew_constructiondroid.jpg"
   },
   {
-    "image": "",
-    "xws": "phantomii",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "ordnancesilos",
-    "slot": "Bomb"
-  },
-  {
-    "image": "",
-    "xws": "trajectorysimulator",
-    "slot": "System"
-  },
-  {
-    "xws": "firstordervanguard",
-    "slot": "Title",
-    "image": ""
-  },
-  {
-    "image": "",
-    "xws": "os1arsenalloadout",
-    "slot": "Title"
-  },
-  {
-    "image": "",
-    "xws": "jammingbeam",
-    "slot": "Cannon"
-  },
-  {
-    "image": "",
-    "xws": "linkedbattery",
-    "slot": "Cannon"
-  },
-  {
-    "image": "",
-    "xws": "saturationsalvo",
-    "slot": "Elite"
-  },
-  {
-    "image": "",
-    "xws": "contrabandcybernetics",
-    "slot": "Illicit"
-  },
-  {
-    "image": "",
-    "xws": "maul",
-    "slot": "Crew"
-  },
-  {
-    "image": "",
+    "slot": "Crew",
     "xws": "courierdroid",
-    "slot": "Crew"
+    "image": "Upgrade_Crew_courierdroid.jpg"
   },
   {
-    "image": "",
-    "xws": "chopper-swx72",
-    "slot": "Astromech"
+    "slot": "Crew",
+    "xws": "darthvader",
+    "image": "Upgrade_Crew_darthvader.jpg"
   },
   {
-    "image": "",
-    "xws": "flightassistastromech",
-    "slot": "Astromech"
+    "slot": "Crew",
+    "xws": "dashrendar",
+    "image": "Upgrade_Crew_dashrendar.jpg"
   },
   {
-    "xws": "advancedoptics",
-    "slot": "Tech",
-    "image": ""
+    "slot": "Crew",
+    "xws": "dengar",
+    "image": "Upgrade_Crew_dengar.jpg"
   },
   {
-    "xws": "crossfireformation",
-    "slot": "Title",
-    "image": ""
+    "slot": "Crew",
+    "xws": "emperorpalpatine",
+    "image": "Upgrade_Crew_emperorpalpatine.jpg"
   },
   {
-    "xws": "deflectiveplating",
-    "slot": "Modification",
-    "image": ""
+    "slot": "Crew",
+    "xws": "ezrabridger",
+    "image": "Upgrade_Crew_ezrabridger.jpg"
   },
   {
-    "image": "",
+    "slot": "Crew",
+    "xws": "finn",
+    "image": "Upgrade_Crew_finn.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "fleetofficer",
+    "image": "Upgrade_Crew_fleetofficer.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "flightinstructor",
+    "image": "Upgrade_Crew_flightinstructor.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "generalhux",
+    "image": "Upgrade_Crew_generalhux.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "gonk",
+    "image": "Upgrade_Crew_gonk.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "grandmofftarkin",
+    "image": "Upgrade_Crew_grandmofftarkin.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "greedo",
+    "image": "Upgrade_Crew_greedo.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "gunner",
+    "image": "Upgrade_Crew_gunner.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "hansolo",
+    "image": "Upgrade_Crew_hansolo.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "herasyndulla",
+    "image": "Upgrade_Crew_herasyndulla.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "hotshotcopilot",
+    "image": "Upgrade_Crew_hotshotcopilot.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "ig88d",
+    "image": "Upgrade_Crew_ig88d.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "inspiringrecruit",
+    "image": "Upgrade_Crew_inspiringrecruit.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "intelligenceagent",
+    "image": "Upgrade_Crew_intelligenceagent.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "jabbathehutt",
+    "image": "Upgrade_Crew_jabbathehutt.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "jandodonna",
+    "image": "Upgrade_Crew_jandodonna.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "janors",
+    "image": "Upgrade_Crew_janors.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "jynerso",
+    "image": "Upgrade_Crew_jynerso.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "k4securitydroid",
+    "image": "Upgrade_Crew_k4securitydroid.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "kananjarrus",
+    "image": "Upgrade_Crew_kananjarrus.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "ketsuonyo",
+    "image": "Upgrade_Crew_ketsuonyo.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "kylekatarn",
+    "image": "Upgrade_Crew_kylekatarn.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "kyloren",
+    "image": "Upgrade_Crew_kyloren.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "landocalrissian",
+    "image": "Upgrade_Crew_landocalrissian.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "lattsrazzi",
+    "image": "Upgrade_Crew_lattsrazzi.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "leebo",
+    "image": "Upgrade_Crew_leebo.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "leiaorgana",
+    "image": "Upgrade_Crew_leiaorgana.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "lukeskywalker",
+    "image": "Upgrade_Crew_lukeskywalker.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "marajade",
+    "image": "Upgrade_Crew_marajade.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "maul",
+    "image": "Upgrade_Crew_maul.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "mercenarycopilot",
+    "image": "Upgrade_Crew_mercenarycopilot.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "moffjerjerrod",
+    "image": "Upgrade_Crew_moffjerjerrod.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "navigator",
+    "image": "Upgrade_Crew_navigator.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "niennunb",
+    "image": "Upgrade_Crew_niennunb.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "operationsspecialist",
+    "image": "Upgrade_Crew_operationsspecialist.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "outlawtech",
+    "image": "Upgrade_Crew_outlawtech.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "r2d2-swx22",
+    "image": "Upgrade_Crew_r2d2-swx22.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "raymusantilles",
+    "image": "Upgrade_Crew_raymusantilles.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "rearadmiralchiraneau",
+    "image": "Upgrade_Crew_rearadmiralchiraneau.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "rebelcaptive",
+    "image": "Upgrade_Crew_rebelcaptive.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "reconspecialist",
+    "image": "Upgrade_Crew_reconspecialist.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "rey",
+    "image": "Upgrade_Crew_rey.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "sabinewren",
+    "image": "Upgrade_Crew_sabinewren.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "saboteur",
+    "image": "Upgrade_Crew_saboteur.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "shieldtechnician",
+    "image": "Upgrade_Crew_shieldtechnician.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "systemsofficer",
+    "image": "Upgrade_Crew_systemsofficer.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "tactician",
+    "image": "Upgrade_Crew_tactician.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "tailgunner",
+    "image": "Upgrade_Crew_tailgunner.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "targetingcoordinator",
+    "image": "Upgrade_Crew_targetingcoordinator.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "torynfarr",
+    "image": "Upgrade_Crew_torynfarr.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "unkarplutt",
+    "image": "Upgrade_Crew_unkarplutt.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "weaponsengineer",
+    "image": "Upgrade_Crew_weaponsengineer.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "wed15repairdroid",
+    "image": "Upgrade_Crew_wed15repairdroid.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "wookieecommandos",
+    "image": "Upgrade_Crew_wookieecommandos.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "ysanneisard",
+    "image": "Upgrade_Crew_ysanneisard.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "zeborrelios",
+    "image": "Upgrade_Crew_zeborrelios.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "zuckuss",
+    "image": "Upgrade_Crew_zuckuss.jpg"
+  },
+  {
+    "slot": "Custom",
+    "xws": "Upgrade",
+    "image": "Upgrade_Custom_Upgrade.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "adaptability",
+    "image": "Upgrade_Elite_adaptability.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "adaptability",
+    "image": "Upgrade_Elite_adaptability_back.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "adrenalinerush",
+    "image": "Upgrade_Elite_adrenalinerush.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "ascoretosettle",
+    "image": "Upgrade_Elite_ascoretosettle.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "attannimindlink",
+    "image": "Upgrade_Elite_attannimindlink.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "back",
+    "image": "Upgrade_Elite_back.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "bodyguard",
+    "image": "Upgrade_Elite_bodyguard.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "calculation",
+    "image": "Upgrade_Elite_calculation.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "coolhand",
+    "image": "Upgrade_Elite_coolhand.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "crackshot",
+    "image": "Upgrade_Elite_crackshot.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "daredevil",
+    "image": "Upgrade_Elite_daredevil.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "deadeye",
+    "image": "Upgrade_Elite_deadeye.jpg"
+  },
+  {
+    "slot": "Elite",
     "xws": "debrisgambit",
-    "slot": "Elite"
+    "image": "Upgrade_Elite_debrisgambit.jpg"
   },
   {
-    "image": "",
-    "xws": "threattracker",
-    "slot": "Tech"
+    "slot": "Elite",
+    "xws": "decoy",
+    "image": "Upgrade_Elite_decoy.jpg"
   },
   {
-    "xws": "scramblermissiles",
+    "slot": "Elite",
+    "xws": "determination",
+    "image": "Upgrade_Elite_determination.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "drawtheirfire",
+    "image": "Upgrade_Elite_drawtheirfire.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "elusiveness",
+    "image": "Upgrade_Elite_elusiveness.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "experthandling",
+    "image": "Upgrade_Elite_experthandling.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "expertise",
+    "image": "Upgrade_Elite_expertise.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "expose",
+    "image": "Upgrade_Elite_expose.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "fearlessness",
+    "image": "Upgrade_Elite_fearlessness.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "intensity",
+    "image": "Upgrade_Elite_intensity.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "intensity",
+    "image": "Upgrade_Elite_intensity_back.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "intimidation",
+    "image": "Upgrade_Elite_intimidation.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "juke",
+    "image": "Upgrade_Elite_juke.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "lightningreflexes",
+    "image": "Upgrade_Elite_lightningreflexes.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "lonewolf",
+    "image": "Upgrade_Elite_lonewolf.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "marksmanship",
+    "image": "Upgrade_Elite_marksmanship.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "opportunist",
+    "image": "Upgrade_Elite_opportunist.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "outmaneuver",
+    "image": "Upgrade_Elite_outmaneuver.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "predator",
+    "image": "Upgrade_Elite_predator.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "pushthelimit",
+    "image": "Upgrade_Elite_pushthelimit.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "rage",
+    "image": "Upgrade_Elite_rage.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "ruthlessness",
+    "image": "Upgrade_Elite_ruthlessness.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "saturationsalvo",
+    "image": "Upgrade_Elite_saturationsalvo.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "selflessness",
+    "image": "Upgrade_Elite_selflessness.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "snapshot",
+    "image": "Upgrade_Elite_snapshot.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "squadleader",
+    "image": "Upgrade_Elite_squadleader.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "stayontarget",
+    "image": "Upgrade_Elite_stayontarget.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "swarmleader",
+    "image": "Upgrade_Elite_swarmleader.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "swarmtactics",
+    "image": "Upgrade_Elite_swarmtactics.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "trickshot",
+    "image": "Upgrade_Elite_trickshot.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "veteraninstincts",
+    "image": "Upgrade_Elite_veteraninstincts.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "wingman",
+    "image": "Upgrade_Elite_wingman.jpg"
+  },
+  {
+    "slot": "Elite",
+    "xws": "wired",
+    "image": "Upgrade_Elite_wired.jpg"
+  },
+  {
+    "slot": "Hardpoint",
+    "xws": "back",
+    "image": "Upgrade_Hardpoint_back.jpg"
+  },
+  {
+    "slot": "Hardpoint",
+    "xws": "duallaserturret",
+    "image": "Upgrade_Hardpoint_duallaserturret.jpg"
+  },
+  {
+    "slot": "Hardpoint",
+    "xws": "heavylaserturret",
+    "image": "Upgrade_Hardpoint_heavylaserturret.jpg"
+  },
+  {
+    "slot": "Hardpoint",
+    "xws": "ioncannonbattery",
+    "image": "Upgrade_Hardpoint_ioncannonbattery.jpg"
+  },
+  {
+    "slot": "Hardpoint",
+    "xws": "quadlasercannons",
+    "image": "Upgrade_Hardpoint_quadlasercannons.jpg"
+  },
+  {
+    "slot": "Hardpoint",
+    "xws": "singleturbolasers",
+    "image": "Upgrade_Hardpoint_singleturbolasers.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "back",
+    "image": "Upgrade_Illicit_back.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "blackmarketslicertools",
+    "image": "Upgrade_Illicit_blackmarketslicertools.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "burnoutslam",
+    "image": "Upgrade_Illicit_burnoutslam.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "cloakingdevice",
+    "image": "Upgrade_Illicit_cloakingdevice.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "contrabandcybernetics",
+    "image": "Upgrade_Illicit_contrabandcybernetics.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "deadmansswitch",
+    "image": "Upgrade_Illicit_deadmansswitch.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "empdevice",
+    "image": "Upgrade_Illicit_empdevice.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "feedbackarray",
+    "image": "Upgrade_Illicit_feedbackarray.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "glitterstim",
+    "image": "Upgrade_Illicit_glitterstim.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "hotshotblaster",
+    "image": "Upgrade_Illicit_hotshotblaster.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "inertialdampeners",
+    "image": "Upgrade_Illicit_inertialdampeners.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "iondischargers",
+    "image": "Upgrade_Illicit_iondischargers.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "riggedcargochute",
+    "image": "Upgrade_Illicit_riggedcargochute.jpg"
+  },
+  {
+    "slot": "Illicit",
+    "xws": "scavengercrane",
+    "image": "Upgrade_Illicit_scavengercrane.jpg"
+  },
+  {
     "slot": "Missile",
-    "image": ""
+    "xws": "advhomingmissiles",
+    "image": "Upgrade_Missile_advhomingmissiles.jpg"
   },
   {
-    "xws": "r5tk",
+    "slot": "Missile",
+    "xws": "assaultmissiles",
+    "image": "Upgrade_Missile_assaultmissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "back",
+    "image": "Upgrade_Missile_back.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "chardaanrefit",
+    "image": "Upgrade_Missile_chardaanrefit.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "clustermissiles",
+    "image": "Upgrade_Missile_clustermissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "concussionmissiles",
+    "image": "Upgrade_Missile_concussionmissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "cruisemissiles",
+    "image": "Upgrade_Missile_cruisemissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "harpoonmissiles",
+    "image": "Upgrade_Missile_harpoonmissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "homingmissiles",
+    "image": "Upgrade_Missile_homingmissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "ionpulsemissiles",
+    "image": "Upgrade_Missile_ionpulsemissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "protonrockets",
+    "image": "Upgrade_Missile_protonrockets.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "scramblermissiles",
+    "image": "Upgrade_Missile_scramblermissiles.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "unguidedrockets",
+    "image": "Upgrade_Missile_unguidedrockets.jpg"
+  },
+  {
+    "slot": "Missile",
+    "xws": "xx23sthreadtracers",
+    "image": "Upgrade_Missile_xx23sthreadtracers.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "advancedcloakingdevice",
+    "image": "Upgrade_Modification_advancedcloakingdevice.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "advancedslam",
+    "image": "Upgrade_Modification_advancedslam.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "antipursuitlasers",
+    "image": "Upgrade_Modification_antipursuitlasers.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "automatedprotocols",
+    "image": "Upgrade_Modification_automatedprotocols.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "autothrusters",
+    "image": "Upgrade_Modification_autothrusters.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "back",
+    "image": "Upgrade_Modification_back.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "bwinge2",
+    "image": "Upgrade_Modification_bwinge2.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "capturedtie",
+    "image": "Upgrade_Modification_capturedtie.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "combatretrofit",
+    "image": "Upgrade_Modification_combatretrofit.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "countermeasures",
+    "image": "Upgrade_Modification_countermeasures.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "deflectiveplating",
+    "image": "Upgrade_Modification_deflectiveplating.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "engineupgrade",
+    "image": "Upgrade_Modification_engineupgrade.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "experimentalinterface",
+    "image": "Upgrade_Modification_experimentalinterface.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "guidancechips",
+    "image": "Upgrade_Modification_guidancechips.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "gyroscopictargeting",
+    "image": "Upgrade_Modification_gyroscopictargeting.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "hullupgrade",
+    "image": "Upgrade_Modification_hullupgrade.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "integratedastromech",
+    "image": "Upgrade_Modification_integratedastromech.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "ionprojector",
+    "image": "Upgrade_Modification_ionprojector.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "lightweightframe",
+    "image": "Upgrade_Modification_lightweightframe.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "longrangescanners",
+    "image": "Upgrade_Modification_longrangescanners.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "maneuveringfins",
+    "image": "Upgrade_Modification_maneuveringfins.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "munitionsfailsafe",
+    "image": "Upgrade_Modification_munitionsfailsafe.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "optimizedgenerators",
+    "image": "Upgrade_Modification_optimizedgenerators.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "ordnancetubes",
+    "image": "Upgrade_Modification_ordnancetubes.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "pulsedrayshield",
+    "image": "Upgrade_Modification_pulsedrayshield.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "royalguardtie",
+    "image": "Upgrade_Modification_royalguardtie.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "shieldupgrade",
+    "image": "Upgrade_Modification_shieldupgrade.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "smugglingcompartment",
+    "image": "Upgrade_Modification_smugglingcompartment.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "spacetugtractorarray",
+    "image": "Upgrade_Modification_spacetugtractorarray.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "stealthdevice",
+    "image": "Upgrade_Modification_stealthdevice.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "stygiumparticleaccelerator",
+    "image": "Upgrade_Modification_stygiumparticleaccelerator.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "tacticaljammer",
+    "image": "Upgrade_Modification_tacticaljammer.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "targetingcomputer",
+    "image": "Upgrade_Modification_targetingcomputer.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "twinionenginemkii",
+    "image": "Upgrade_Modification_twinionenginemkii.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "vectoredthrusters",
+    "image": "Upgrade_Modification_vectoredthrusters.jpg"
+  },
+  {
     "slot": "Salvaged Astromech",
-    "image": ""
+    "xws": "back",
+    "image": "Upgrade_SalvagedAstromech_back.jpg"
   },
   {
-    "image": "",
-    "xws": "targetingscrambler",
-    "slot": "System"
+    "slot": "Salvaged Astromech",
+    "xws": "genius",
+    "image": "Upgrade_SalvagedAstromech_genius.jpg"
   },
   {
-    "xws": "sawgerrera",
-    "slot": "Crew"
+    "slot": "Salvaged Astromech",
+    "xws": "overclockedr4",
+    "image": "Upgrade_SalvagedAstromech_overclockedr4.jpg"
   },
   {
-    "xws": "directorkrennic",
-    "slot": "Crew"
+    "slot": "Salvaged Astromech",
+    "xws": "r4agromech",
+    "image": "Upgrade_SalvagedAstromech_r4agromech.jpg"
   },
   {
-    "image": "",
-    "xws": "deathtroopers",
-    "slot": "Crew"
+    "slot": "Salvaged Astromech",
+    "xws": "r4b11",
+    "image": "Upgrade_SalvagedAstromech_r4b11.jpg"
+  },
+  {
+    "slot": "Salvaged Astromech",
+    "xws": "r4e1",
+    "image": "Upgrade_SalvagedAstromech_r4e1.jpg"
+  },
+  {
+    "slot": "Salvaged Astromech",
+    "xws": "r5p8",
+    "image": "Upgrade_SalvagedAstromech_r5p8.jpg"
+  },
+  {
+    "slot": "Salvaged Astromech",
+    "xws": "r5tk",
+    "image": "Upgrade_SalvagedAstromech_r5tk.jpg"
+  },
+  {
+    "slot": "Salvaged Astromech",
+    "xws": "salvagedastromech",
+    "image": "Upgrade_SalvagedAstromech_salvagedastromech.jpg"
+  },
+  {
+    "slot": "Salvaged Astromech",
+    "xws": "unhingedastromech",
+    "image": "Upgrade_SalvagedAstromech_unhingedastromech.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "accuracycorrector",
+    "image": "Upgrade_System_accuracycorrector.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "advancedsensors",
+    "image": "Upgrade_System_advancedsensors.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "advtargetingcomputer",
+    "image": "Upgrade_System_advtargetingcomputer.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "back",
+    "image": "Upgrade_System_back.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "collisiondetector",
+    "image": "Upgrade_System_collisiondetector.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "electronicbaffle",
+    "image": "Upgrade_System_electronicbaffle.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "enhancedscopes",
+    "image": "Upgrade_System_enhancedscopes.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "firecontrolsystem",
+    "image": "Upgrade_System_firecontrolsystem.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "minefieldmapper",
+    "image": "Upgrade_System_minefieldmapper.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "reinforceddeflectors",
+    "image": "Upgrade_System_reinforceddeflectors.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "sensorjammer",
+    "image": "Upgrade_System_sensorjammer.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "trajectorysimulator",
+    "image": "Upgrade_System_trajectorysimulator.jpg"
+  },
+  {
+    "slot": "Team",
+    "xws": "back",
+    "image": "Upgrade_Team_back.jpg"
+  },
+  {
+    "slot": "Team",
+    "xws": "engineeringteam",
+    "image": "Upgrade_Team_engineeringteam.jpg"
+  },
+  {
+    "slot": "Team",
+    "xws": "gunneryteam",
+    "image": "Upgrade_Team_gunneryteam.jpg"
+  },
+  {
+    "slot": "Team",
+    "xws": "igrmthugdroids",
+    "image": "Upgrade_Team_igrmthugdroids.jpg"
+  },
+  {
+    "slot": "Team",
+    "xws": "ordnanceexperts",
+    "image": "Upgrade_Team_ordnanceexperts.jpg"
+  },
+  {
+    "slot": "Team",
+    "xws": "sensorteam",
+    "image": "Upgrade_Team_sensorteam.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "advancedoptics",
+    "image": "Upgrade_Tech_advancedoptics.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "back",
+    "image": "Upgrade_Tech_back.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "commrelay",
+    "image": "Upgrade_Tech_commrelay.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "hyperwavecommscanner",
+    "image": "Upgrade_Tech_hyperwavecommscanner.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "patternanalyzer",
+    "image": "Upgrade_Tech_patternanalyzer.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "primedthrusters",
+    "image": "Upgrade_Tech_primedthrusters.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "sensorcluster",
+    "image": "Upgrade_Tech_sensorcluster.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "targetingsynchronizer",
+    "image": "Upgrade_Tech_targetingsynchronizer.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "threattracker",
+    "image": "Upgrade_Tech_threattracker.jpg"
+  },
+  {
+    "slot": "Tech",
+    "xws": "weaponsguidance",
+    "image": "Upgrade_Tech_weaponsguidance.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "adaptiveailerons",
+    "image": "Upgrade_Title_adaptiveailerons.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "allianceoverhaul",
+    "image": "Upgrade_Title_allianceoverhaul.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "andrasta",
+    "image": "Upgrade_Title_andrasta.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "assailer",
+    "image": "Upgrade_Title_assailer.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "awingtestpilot",
+    "image": "Upgrade_Title_awingtestpilot.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "back",
+    "image": "Upgrade_Title_back.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "blackone",
+    "image": "Upgrade_Title_blackone.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "brighthope",
+    "image": "Upgrade_Title_brighthope.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "brokenhorn",
+    "image": "Upgrade_Title_brokenhorn.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "btla4ywing",
+    "image": "Upgrade_Title_btla4ywing.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "concorddawnprotector",
+    "image": "Upgrade_Title_concorddawnprotector.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "crossfireformation",
+    "image": "Upgrade_Title_crossfireformation.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "dauntless",
+    "image": "Upgrade_Title_dauntless.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "dodonnaspride",
+    "image": "Upgrade_Title_dodonnaspride.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "dutyfree",
+    "image": "Upgrade_Title_dutyfree.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "enforcer",
+    "image": "Upgrade_Title_enforcer.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "firstordervanguard",
+    "image": "Upgrade_Title_firstordervanguard.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "ghost-swx72",
+    "image": "Upgrade_Title_ghost-swx72.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "ghost",
+    "image": "Upgrade_Title_ghost.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "havoc",
+    "image": "Upgrade_Title_havoc.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "heavyscykinterceptor",
+    "image": "Upgrade_Title_heavyscykinterceptor.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "houndstooth",
+    "image": "Upgrade_Title_houndstooth.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "ig2000",
+    "image": "Upgrade_Title_ig2000.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "impetuous",
+    "image": "Upgrade_Title_impetuous.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "insatiableworrt",
+    "image": "Upgrade_Title_insatiableworrt.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "instigator",
+    "image": "Upgrade_Title_instigator.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "jainaslight",
+    "image": "Upgrade_Title_jainaslight.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "kylorensshuttle",
+    "image": "Upgrade_Title_kylorensshuttle.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "lightscykinterceptor",
+    "image": "Upgrade_Title_lightscykinterceptor.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "merchantone",
+    "image": "Upgrade_Title_merchantone.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "millenniumfalcon-swx57",
+    "image": "Upgrade_Title_millenniumfalcon-swx57.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "millenniumfalcon",
+    "image": "Upgrade_Title_millenniumfalcon.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "misthunter",
+    "image": "Upgrade_Title_misthunter.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "moldycrow",
+    "image": "Upgrade_Title_moldycrow.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "os1arsenalloadout",
+    "image": "Upgrade_Title_os1arsenalloadout.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "outrider",
+    "image": "Upgrade_Title_outrider.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "phantom",
+    "image": "Upgrade_Title_phantom.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "phantomii",
+    "image": "Upgrade_Title_phantomii.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "pivotwing",
+    "image": "Upgrade_Title_pivotwing.jpg.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "pivotwing",
+    "image": "Upgrade_Title_pivotwing_back.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "punishingone",
+    "image": "Upgrade_Title_punishingone.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "quantumstorm",
+    "image": "Upgrade_Title_quantumstorm.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "requiem",
+    "image": "Upgrade_Title_requiem.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "sabinesmasterpiece",
+    "image": "Upgrade_Title_sabinesmasterpiece.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "shadowcaster",
+    "image": "Upgrade_Title_shadowcaster.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "slavei",
+    "image": "Upgrade_Title_slavei.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "specialopstraining",
+    "image": "Upgrade_Title_specialopstraining.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "st321",
+    "image": "Upgrade_Title_st321.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "starvipermkii",
+    "image": "Upgrade_Title_starvipermkii.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "suppressor",
+    "image": "Upgrade_Title_suppressor.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "tantiveiv",
+    "image": "Upgrade_Title_tantiveiv.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "tied",
+    "image": "Upgrade_Title_tied.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "tieshuttle",
+    "image": "Upgrade_Title_tieshuttle.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "tiev1",
+    "image": "Upgrade_Title_tiev1.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "tiex1",
+    "image": "Upgrade_Title_tiex1.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "tiex7",
+    "image": "Upgrade_Title_tiex7.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "vaksai",
+    "image": "Upgrade_Title_vaksai.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "vector",
+    "image": "Upgrade_Title_vector.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "virago",
+    "image": "Upgrade_Title_virago.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "xg1assaultconfiguration",
+    "image": "Upgrade_Title_xg1assaultconfiguration.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "advprotontorpedoes",
+    "image": "Upgrade_Torpedo_advprotontorpedoes.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "back",
+    "image": "Upgrade_Torpedo_back.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "bombloadout",
+    "image": "Upgrade_Torpedo_bombloadout.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "extramunitions",
+    "image": "Upgrade_Torpedo_extramunitions.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "flechettetorpedoes",
+    "image": "Upgrade_Torpedo_flechettetorpedoes.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "iontorpedoes",
+    "image": "Upgrade_Torpedo_iontorpedoes.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "plasmatorpedoes",
+    "image": "Upgrade_Torpedo_plasmatorpedoes.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "protontorpedoes",
+    "image": "Upgrade_Torpedo_protontorpedoes.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "seismictorpedo",
+    "image": "Upgrade_Torpedo_seismictorpedo.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "autoblasterturret",
+    "image": "Upgrade_Turret_autoblasterturret.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "back",
+    "image": "Upgrade_Turret_back.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "blasterturret",
+    "image": "Upgrade_Turret_blasterturret.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "dorsalturret",
+    "image": "Upgrade_Turret_dorsalturret.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "ioncannonturret",
+    "image": "Upgrade_Turret_ioncannonturret.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "syncedturret",
+    "image": "Upgrade_Turret_syncedturret.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "twinlaserturret",
+    "image": "Upgrade_Turret_twinlaserturret.jpg"
   }
 ]
