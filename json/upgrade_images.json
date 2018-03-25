@@ -1858,5 +1858,10 @@
     "slot": "Turret",
     "xws": "twinlaserturret",
     "image": "Upgrade_Turret_twinlaserturret.jpg"
+  },
+  {
+    "slot": "Turret",
+    "xws": "junkimage",
+    "image": "junkimage.jpg"
   }
 ]
