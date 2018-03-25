@@ -22,3 +22,6 @@ Pilot_&lt;faction, lower case, remove spaces&gt;_&lt;ship xws&gt;_&lt;pilot xws&
 <h3>Condition</h3>
 <b>Cards:</b> Condition_&lt;xws&gt;.jpg
 <br><b>Tokens:</b> ConditionToken_&lt;xws&gt;.png
+
+<h3>Dial Hide Ship Images</h3>
+DialHide_%lt;shipxws&gt;.png
