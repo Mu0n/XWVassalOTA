@@ -1,0 +1,242 @@
+[
+  {
+    "xws": "aggressor",
+    "image": "DialHide_aggressor.png",
+    "factions": ["scumandvillainy"]
+  },
+  {
+    "xws": "alphaclassstarwing",
+    "image": "DialHide_alphaclassstarwing.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "arc170",
+    "image": "DialHide_arc170.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "attackshuttle",
+    "image": "DialHide_attackshuttle.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "auzituckgunship",
+    "image": "DialHide_auzituckgunship.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "awing",
+    "image": "DialHide_awing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "bsf17bomber",
+    "image": "DialHide_bsf17bomber.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "bwing",
+    "image": "DialHide_bwing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "ewing",
+    "image": "DialHide_ewing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "firespray31",
+    "image": "DialHide_firespray31.png",
+    "factions" : ["galacticempire","scumandvillainy"]
+  },
+  {
+    "xws": "g1astarfighter",
+    "image": "DialHide_g1astarfighter.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "hwk290",
+    "image": "DialHide_hwk290.png",
+    "factions" : ["rebelalliance","scumandvillainy"]
+  },
+  {
+    "xws": "jumpmaster5000",
+    "image": "DialHide_jumpmaster5000.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "kihraxzfighter",
+    "image": "DialHide_kihraxzfighter.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "kwing",
+    "image": "DialHide_kwing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "lambdaclassshuttle",
+    "image": "DialHide_lambdaclassshuttle.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "lancerclasspursuitcraft",
+    "image": "DialHide_lancerclasspursuitcraft.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "m12lkimogilafighter",
+    "image": "DialHide_m12lkimogilafighter.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "m3ainterceptor",
+    "image": "DialHide_m3ainterceptor.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "protectoratestarfighter",
+    "image": "DialHide_protectoratestarfighter.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "quadjumper",
+    "image": "DialHide_quadjumper.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "scurrgh6bomber",
+    "image": "DialHide_scurrgh6bomber.png",
+    "factions" : ["rebelalliance","scumandvillainy"]
+  },
+  {
+    "xws": "sheathipedeclassshuttle",
+    "image": "DialHide_sheathipedeclassshuttle.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "starviper",
+    "image": "DialHide_starviper.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "t70xwing",
+    "image": "DialHide_t70xwing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "tieadvanced",
+    "image": "DialHide_tieadvanced.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tieadvprototype",
+    "image": "DialHide_tieadvprototype.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tieaggressor",
+    "image": "DialHide_tieaggressor.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiebomber",
+    "image": "DialHide_tiebomber.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiedefender",
+    "image": "DialHide_tiedefender.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiefighter",
+    "image": "DialHide_tiefighter.png",
+    "factions" : ["galacticempire","rebelalliance"]
+  },
+  {
+    "xws": "tiefofighter",
+    "image": "DialHide_tiefofighter.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tieinterceptor",
+    "image": "DialHide_tieinterceptor.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiephantom",
+    "image": "DialHide_tiephantom.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiepunisher",
+    "image": "DialHide_tiepunisher.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiesffighter",
+    "image": "DialHide_tiesffighter.png",
+    "factions" : ["galacticempire","rebelalliance"]
+  },
+  {
+    "xws": "tiesilencer",
+    "image": "DialHide_tiesilencer.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "tiestriker",
+    "image": "DialHide_tiestriker.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "upsilonclassshuttle",
+    "image": "DialHide_upsilonclassshuttle.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "uwing",
+    "image": "DialHide_uwing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "vcx100",
+    "image": "DialHide_vcx100.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "vt49decimator",
+    "image": "DialHide_vt49decimator.png",
+    "factions" : ["galacticempire"]
+  },
+  {
+    "xws": "xwing",
+    "image": "DialHide_xwing.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "yt1300",
+    "image": "DialHide_yt1300.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "yt2400",
+    "image": "DialHide_yt2400.png",
+    "factions" : ["rebelalliance"]
+  },
+  {
+    "xws": "yv666",
+    "image": "DialHide_yv666.png",
+    "factions" : ["scumandvillainy"]
+  },
+  {
+    "xws": "ywing",
+    "image": "DialHide_ywing.png",
+    "factions" : ["rebelalliance","scumandvillainy"]
+  },
+  {
+    "xws": "z95headhunter",
+    "image": "DialHide_z95headhunter.png",
+    "factions" : ["rebelalliance","scumandvillainy"]
+  }
+]
