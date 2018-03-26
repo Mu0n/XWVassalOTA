@@ -535,7 +535,7 @@
   },
   {
     "xws": "marysue",
-    "image": "Ship_marysue_standard.png",
+    "image": "Ship_marysue.png",
     "identifier" : "standard",
     "faction" : ["galacticempire"]
   }
