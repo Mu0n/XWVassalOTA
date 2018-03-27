@@ -30,5 +30,21 @@
       "Elite"
     ],
     "id": 666
+  },
+  {
+    "text": "testlarge rebel aux rear",
+    "name": "rebel 1",
+    "xws": "rebelpilot1",
+    "ship": "Large Rebel 1",
+    "unique": true,
+    "skill": 10,
+    "points": 55,
+    "faction": "Rebel Alliance",
+    "slots": [
+      "Elite",
+      "Astromech",
+      "Elite"
+    ],
+    "id": 666
   }
 ]
