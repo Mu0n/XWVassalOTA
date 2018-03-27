@@ -83,7 +83,7 @@
     "name": "Test Pilot4",
     "id": 0,
     "unique": true,
-    "ship": "testship",
+    "ship": "testship4",
     "skill": 6,
     "points": 100,
     "slots": [
