@@ -78,5 +78,23 @@
       "Elite"
     ],
     "id": 666
-  }
+  },
+  {
+  "name": "Test Pilot4",
+  "id": 0,
+  "unique": true,
+  "ship": "testship",
+  "skill": 6,
+  "points": 100,
+  "slots": [
+    "System",
+    "Torpedo",
+    "Crew",
+    "Crew"
+  ],
+  "text": "Unknown",
+  "image": "pilots/Rebel Alliance/X-wing/wedge-antilles.png",
+  "faction": "Galactic Empire",
+  "xws": "testpilot4"
+}
 ]
