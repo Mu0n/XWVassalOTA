@@ -81,23 +81,5 @@
       "Elite"
     ],
     "id": 666
-  },
-  {
-    "image": "pilots/Scum and Villainy/Lancer-class Pursuit Craft/asajj-ventress.png",
-    "text": "At the start of the Combat phase, you may choose a ship at Range 1-2. If it is inside your mobile firing arc, assign 1 stress token to it.",
-    "name": "Rebel Mobile Pilot",
-    "xws": "rebelmobilepilot",
-    "ship": "Rebel Mobile",
-    "unique": true,
-    "skill": 6,
-    "points": 37,
-    "faction": "Rebel Alliance",
-    "slots": [
-      "Crew",
-      "Elite",
-      "Illicit",
-      "Illicit"
-    ],
-    "id": 211
   }
 ]
