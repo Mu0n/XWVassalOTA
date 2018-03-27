@@ -10,13 +10,13 @@ To add a new ship dynamically to the module:
 <li>Upload the "dial hide" ship image to the "dial" folder. This is the smaller ship image shown on the dial. Again be sure to use the naming convention below. <i>Note:</i> the module will generate the "Dial Mask" image automatically.</li>
 <li>Update the ship_images.json file with the information about the ship. An example entry is:
 <br>
-<code>  {
+```json  {
           "xws": "aggressor",
           "image": "Ship_aggressor.png",
           "identifier" : "standard",
           "faction" : ["scumandvillainy"]
         }
-</code>
+```
 <ul><li>"xws" - the xws of the ship</li>
 <li>"image" - the ship image to be used on the base</li>
 <li>"identifier" - this is used for alt-art ships.  If this is standard art, use "standard" as the value.  If this is an alt art image, give any unique identifier to this ship, and be sure to include it in the ship image name.</li>
