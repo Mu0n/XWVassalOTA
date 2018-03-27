@@ -1,50 +1,51 @@
 # XWVassalOTA
 
-<h2>Adding New Content Via OTA</h2>
-<h3>Ships</h3>
+## Adding New Content Via OTA
+### Ships
 To add a new ship dynamically to the module:
-<br>
-<ol>
-<li>Update the xwing-data ships file (ships.js) with the new ship.  If this cannot be done for some reason, you can insert the same contents into file dispatcher_ships.json in this repository</li>
-<li>Upload the ship image to be used on the ship base to the "ships" folder.  Be sure to use the naming convention below.</li>
-<li>Upload the "dial hide" ship image to the "dial" folder. This is the smaller ship image shown on the dial. Again be sure to use the naming convention below. <i>Note:</i> the module will generate the "Dial Mask" image automatically.</li>
-<li>Update the ship_images.json file with the information about the ship. An example entry is:
-<br>
-```json  {
+
+1. Update the xwing-data ships file (ships.js) with the new ship.  If this cannot be done for some reason, you can insert the same contents into file dispatcher_ships.json in this repository
+2. Upload the ship image to be used on the ship base to the "ships" folder.  Be sure to use the naming convention below.
+3. Upload the "dial hide" ship image to the "dial" folder. This is the smaller ship image shown on the dial. Again be sure to use the naming convention below. **Note:** the module will generate the "Dial Mask" image automatically.
+4. Update the ship_images.json file with the information about the ship. An example entry is:
+
+```json  
+       {
           "xws": "aggressor",
           "image": "Ship_aggressor.png",
           "identifier" : "standard",
           "faction" : ["scumandvillainy"]
         }
 ```
-<ul><li>"xws" - the xws of the ship</li>
-<li>"image" - the ship image to be used on the base</li>
-<li>"identifier" - this is used for alt-art ships.  If this is standard art, use "standard" as the value.  If this is an alt art image, give any unique identifier to this ship, and be sure to include it in the ship image name.</li>
-<li>"faction" - a list of factions this ship can be used by.  Be sure it is all lower case, and no spaces.  This should be main factions only, not subfactions.</li></ul>
-<i>Note:</i> Faction-specific ship bases will be generated for each faction listed
-</li></ol>
++ "xws" - the xws of the ship
++ "image" - the ship image to be used on the base
++ "identifier" - this is used for alt-art ships.  If this is standard art, use "standard" as the value.  If this is an alt art image, give any unique identifier to this ship, and be sure to include it in the ship image name.
++ "faction" - a list of factions this ship can be used by.  Be sure it is all lower case, and no spaces.  This should be main factions only, not subfactions.
 
-<h3>Pilots</h3>
+*Note:* Faction-specific ship bases will be generated for each faction listed
+
+
+### Pilots
 To add a new pilot dynamically to the module:
-<br>
-<ol>
-<li>Update the xwing-data pilots file (pilots.js) with the new pilot.  If this cannot be done for some reason, you can insert the same contents into file dispatcher_pilots.json in this repository</li>
-<li>Upload the pilot image to be used to the "pilots" folder.  Be sure to use the naming convention below.</li>
-<li>Update the pilot_images.json file with the information about the pilot. An example entry is:
-<br>
-<code>  {
+
+1. Update the xwing-data pilots file (pilots.js) with the new pilot.  If this cannot be done for some reason, you can insert the same contents into file dispatcher_pilots.json in this repository
+2. Upload the pilot image to be used to the "pilots" folder.  Be sure to use the naming convention below.
+3. Update the pilot_images.json file with the information about the pilot. An example entry is:
+
+```json   
+          {
             "shipxws": "xwing",
             "pilotxws": "wedgeantilles",
             "faction": "rebelalliance",
             "image": "Pilot_rebelalliance_xwing_wedgeantilles.jpg"
           }
-</code>
-<ul><li>"shipxws" - the xws of the ship</li>
-<li>"pilotxws" - the xws of the pilot</li>
-<li>"faction" - a list of factions this ship can be used by.  Be sure it is all lower case, and no spaces.  This might be a subfaction</li></ul>
-<li>"image" - The image to be used for the pilot card</li>
-</ol>
-<i>Note:</i> Faction/subfaction specific backs to the cards will be applied automatically
+```
+..+ "shipxws" - the xws of the ship
+..+ "pilotxws" - the xws of the pilot
+..+ "faction" - a list of factions this ship can be used by.  Be sure it is all lower case, and no spaces.  This might be a subfaction
+4. "image" - The image to be used for the pilot card
+
+*Note:* Faction/subfaction specific backs to the cards will be applied automatically
 
 <h3>Upgrades</h3>
 To add a new upgrade dynamically to the module:
