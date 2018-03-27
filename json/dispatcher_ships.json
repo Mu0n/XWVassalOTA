@@ -254,5 +254,82 @@
       "3FW",
       "3NW"
     ]
+  },
+  {
+    "name": "Rebel Mobile",
+    "xws": "rebelmobile",
+    "faction": [
+      "Rebel Alliance"
+    ],
+    "actions": [
+      "Focus",
+      "Evade",
+      "Rotate Arc",
+      "Target Lock"
+    ],
+    "size": "large",
+    "attack": 3,
+    "agility": 2,
+    "hull": 7,
+    "shields": 3,
+    "maneuvers": [
+      [],
+      [
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        3
+      ]
+    ],
+    "id": 41,
+    "firing_arcs": [
+      "Front",
+      "Mobile"
+    ],
+    "dial": [
+      "1BW",
+      "1FW",
+      "1NW",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3TG",
+      "3BG",
+      "3FG",
+      "3NG",
+      "3YG",
+      "4FG",
+      "5FW",
+      "5KR"
+    ]
   }
 ]
