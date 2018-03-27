@@ -68,14 +68,14 @@
     "name": "scumship1",
     "xws": "scumship1",
     "faction": [
-      "Scum and Villainy"
+      "Rebel Alliance"
     ],
     "actions": [
       "Evade",
       "Focus",
       "Boost"
     ],
-    "size": "small",
+    "size": "large",
     "attack": 6,
     "agility": 4,
     "hull": 6,
