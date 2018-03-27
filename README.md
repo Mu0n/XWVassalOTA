@@ -23,6 +23,7 @@ To add a new ship dynamically to the module:
 <li>"faction" - a list of factions this ship can be used by.  Be sure it is all lower case, and no spaces.  This should be main factions only, not subfactions.</li></ul>
 <i>Note:</i> Faction-specific ship bases will be generated for each faction listed
 </li></ol>
+
 <h3>Pilots</h3>
 To add a new pilot dynamically to the module:
 <br>
@@ -45,7 +46,27 @@ To add a new pilot dynamically to the module:
 </ol>
 <i>Note:</i> Faction/subfaction specific backs to the cards will be applied automatically
 
-
+<h3>Upgrades</h3>
+To add a new upgrade dynamically to the module:
+<br>
+<ol>
+<li>Update the xwing-data upgrades file (upgrades.js) with the new upgrade.  If this cannot be done for some reason, you can insert the same contents into file dispatcher_upgrades.json in this repository</li>
+<li>Upload the upgrade image to be used to the "upgrades" folder.  Be sure to use the naming convention below.</li>
+<li>Update the upgrade_images.json file with the information about the upgrade. An example entry is:
+<br>
+<code>  {
+            "slot": "Astromech",
+            "xws": "bb8",
+            "image": "Upgrade_Astromech_bb8.jpg"
+          }
+</code>
+<ul><li>"slot" - the name of the upgrade slot. Be sure this matches the slot value in xwing-data.</li>
+<li>"xws" - the xws of the upgrade</li>
+<li>"image" - The image to be used for the upgrade card</li>
+</ol>
+<i>Note:</i> Slot specific backs will be applied to the card automatically.<br>
+If a new slot is introduced, and you need to add a <i>new</i> slot back card, add another entry using "back" as the xws, and replace the upgrade xws in the image name with "back".
+The system will then add the image as the default back for all upgrades of this new slot.
 
 
 
