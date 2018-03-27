@@ -144,7 +144,7 @@
     "shields": 3,
     "firing_arcs": [
       "Front",
-      "Auxiliary 180"
+      "Turret"
     ],
     "id": 55,
     "maneuvers": [
