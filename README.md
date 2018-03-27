@@ -68,6 +68,29 @@ To add a new upgrade dynamically to the module:
 If a new slot is introduced, and you need to add a <i>new</i> slot back card, add another entry using "back" as the xws, and replace the upgrade xws in the image name with "back".
 The system will then add the image as the default back for all upgrades of this new slot.
 
+<h3>Conditions</h3>
+To add a new condition dynamically to the module:
+<br>
+<ol>
+<li>Update the xwing-data conditions file (conditions.js) with the new upgrade.  If this cannot be done for some reason, you can insert the same contents into file dispatcher_conditions.json in this repository</li>
+<li>Upload the condition image to be used to the "conditions" folder.  Be sure to use the naming convention below.</li>
+<li>Upload the condition token image to be used to the "conditions" folder.  Be sure to use the naming convention below.</li>
+<li>Update the condition_images.json file with the information about the condition. An example entry is:
+<br>
+<code>  {
+            "image": "Condition_illshowyouthedarkside.jpg",
+            "tokenimage": "ConditionToken_illshowyouthedarkside.png",
+            "xws": "illshowyouthedarkside"
+          }
+</code>
+<ul><li>"image" - The image to be used for the front of the condition card.</li>
+<li>"tokenimage" - The image to be used for the condition token</li>
+<li>"xws" - The xws of the condition</li>
+</ol>
+<i>Note:</i> The backs of the condition cards have been completely genericized, so there is no need to bother with that.
+
+<h3>Others</h3>
+You can also add new images for "cardboard" firing arcs and "cardboard" actions (that go on the base ship image).  However, if new actions or arcs are introduced, there most likely will need to be some code changes made.
 
 
 <h2>Naming Conventions</h2>
