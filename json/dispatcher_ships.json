@@ -208,7 +208,8 @@
     "hull": 6,
     "shields": 6,
     "firing_arcs": [
-      "Front"
+      "Front",
+      "Auxiliary 180"
     ],
     "id": 666,
     "maneuvers": [
