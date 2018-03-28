@@ -159,7 +159,8 @@ If a condition exists in xwing-data, but does not exist in OTA, the module will 
 ## Naming Conventions
 ### Ships
 *Standard ship images:* Ship_&lt;ship-xws&gt;.png
-*Alt art ship images:* Ship_&lt;ship-xws&gt_&lt;identifier&gt;.png
+
+*Alt art ship images:* Ship_&lt;ship-xws&gt;_&lt;identifier&gt;.png
 
 ### Base Firing Arcs
 Firing_Arc_&lt;xws firing_arc, lower case, remove spaces&gt;_&lt;xws size&gt;_&lt;xws faction, lower case, remove spaces&gt;.svg
