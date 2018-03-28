@@ -168,4 +168,4 @@ Pilot_&lt;faction, lower case, remove spaces&gt;_&lt;ship xws&gt;_&lt;pilot xws&
 *Tokens:* ConditionToken_&lt;xws&gt;.png
 
 ### Dial Hide Ship Images
-DialHide_%lt;shipxws&gt;.png
+DialHide_&lt;shipxws&gt;.png
