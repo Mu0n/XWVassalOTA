@@ -416,6 +416,11 @@
   },
   {
     "slot": "Crew",
+    "xws": "deathtroopers",
+    "image": "Upgrade_Crew_deathtroopers.jpg"
+  },
+  {
+    "slot": "Crew",
     "xws": "dengar",
     "image": "Upgrade_Crew_dengar.jpg"
   },
@@ -1388,6 +1393,11 @@
     "slot": "System",
     "xws": "sensorjammer",
     "image": "Upgrade_System_sensorjammer.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "targetingscrambler",
+    "image": "Upgrade_System_targetingscrambler.jpg"
   },
   {
     "slot": "System",
