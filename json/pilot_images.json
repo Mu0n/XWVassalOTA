@@ -1668,12 +1668,5 @@
     "shipxws": "tiesilencer",
     "faction": "firstorder",
     "image": "Pilot_firstorder_tiesilencer_firstordertestpilot.jpg"
-  },
-  {
-    "pilotxws": "mary",
-    "shipxws": "marysue",
-    "faction": "galacticempire",
-    "image": "Pilot_galacticempire_marysue_mary.jpg"
   }
-
 ]
