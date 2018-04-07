@@ -238,10 +238,5 @@
     "xws": "z95headhunter",
     "image": "DialHide_z95headhunter.png",
     "faction" : ["rebelalliance","scumandvillainy"]
-  },
-  {
-    "xws": "marysue",
-    "image": "DialHide_marysue.png",
-    "faction" : ["galacticempire"]
   }
 ]
