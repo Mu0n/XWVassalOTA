@@ -238,5 +238,10 @@
     "xws": "z95headhunter",
     "image": "DialHide_z95headhunter.png",
     "faction" : ["rebelalliance","scumandvillainy"]
+  },
+  {
+    "xws": "errorship",
+    "image": "DialHide_errorship.png",
+    "faction" : ["rebelalliance","scumandvillainy"]
   }
 ]
