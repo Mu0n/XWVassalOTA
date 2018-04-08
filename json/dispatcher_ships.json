@@ -2,7 +2,7 @@
   {
     "name": "Error Ship",
     "xws": "errorship",
-    "faction": ["rebelalliance","scumandvillainy"],
+    "faction": ["Rebel Alliance","Scum and Villainy"],
     "actions": [
       "Focus",
       "Target Lock"
