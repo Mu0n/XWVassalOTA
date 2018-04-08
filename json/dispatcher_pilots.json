@@ -1,2 +1,16 @@
 [
+  {
+    "name": "Error Pilot 1",
+    "xws": "errorpilot1",
+    "ship": "TIE Silencer",
+    "skill": 4,
+    "points": 26,
+    "faction": "First Order",
+    "slots": [
+      "System",
+      "Tech"
+    ],
+    "id": 283,
+    "image": "pilots/First Order/TIE Silencer/sienar-jaemus-analyst.png"
+  }
 ]

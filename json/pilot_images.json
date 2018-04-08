@@ -1668,5 +1668,17 @@
     "shipxws": "tiesilencer",
     "faction": "firstorder",
     "image": "Pilot_firstorder_tiesilencer_firstordertestpilot.jpg"
+  },
+  {
+  "pilotxws": "errorpilot1",
+  "shipxws": "tiesilencer",
+  "faction": "firstorder",
+  "image": "Pilot_firstorder_tiesilencer_errorpilot1.jpg"
+},
+  {
+    "pilotxws": "errorpilot2",
+    "shipxws": "tiesilencer",
+    "faction": "firstorder",
+    "image": "Pilot_firstorder_tiesilencer_errorpilot2.jpg"
   }
 ]
