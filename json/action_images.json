@@ -42,6 +42,10 @@
   {
     "name":"targetlock",
     "image":"Action_targetlock.png"
+  },
+  {
+    "name":"error",
+    "image":"Action_error.png"
   }
 
 ]

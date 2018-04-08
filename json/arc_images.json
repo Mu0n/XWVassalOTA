@@ -214,5 +214,11 @@
     "size" : "small",
     "arc":"turret",
     "image":"Firing_Arc_turret_small_scumandvillainy.png"
+  },
+  {
+    "faction":"scumandvillainy",
+    "size" : "small",
+    "arc":"error",
+    "image":"Firing_Arc_error_small_scumandvillainy.png"
   }
 ]
