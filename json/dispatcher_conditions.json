@@ -35,5 +35,9 @@
   {
     "name": "Scrambled",
     "xws": "scrambled"
+  },
+  {
+    "name": "Error Condition1",
+    "xws": "errorcondition1"
   }
 ]
