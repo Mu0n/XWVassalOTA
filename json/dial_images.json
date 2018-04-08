@@ -243,5 +243,10 @@
     "xws": "errorship",
     "image": "DialHide_errorship.png",
     "faction" : ["rebelalliance","scumandvillainy"]
+  },
+  {
+    "xws": "errorship2",
+    "image": "DialHide_errorship2.png",
+    "faction" : ["rebelalliance","scumandvillainy"]
   }
 ]
