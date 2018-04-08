@@ -532,5 +532,15 @@
     "image": "Ship_z95headhunter_tala.png",
     "identifier" : "tala",
     "faction" : ["rebelalliance"]
+  },
+  {
+  "xws": "errorship",
+  "image": "Ship_errorship.png",
+  "faction" : ["rebelalliance","scumandvillainy"]
+},
+  {
+    "xws": "errorship2",
+    "image": "Ship_errorship2.png",
+    "faction" : ["rebelalliance","scumandvillainy"]
   }
 ]
