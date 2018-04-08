@@ -1868,5 +1868,15 @@
     "slot": "Turret",
     "xws": "twinlaserturret",
     "image": "Upgrade_Turret_twinlaserturret.jpg"
+  },
+  {
+    "slot": "Astromech",
+    "xws": "errorupgrade",
+    "image": "Upgrade_Astromech_errorupgrade.jpg"
+  },
+  {
+    "slot": "Astromech",
+    "xws": "errorupgrade2",
+    "image": "Upgrade_Astromech_errorupgrade2.jpg"
   }
 ]

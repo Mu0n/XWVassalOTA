@@ -138,5 +138,15 @@
     "slot": "Astromech",
     "id": 368,
     "image": "upgrades/Salvaged Astromech/r5-tk.png"
+  },
+  {
+    "text": "Error Upgrade",
+    "name": "Error Upgrade",
+    "xws": "errorupgrade",
+    "unique": false,
+    "points": 0,
+    "slot": "Astromech",
+    "id": 368,
+    "image": "upgrades/Salvaged Astromech/r5-tk.png"
   }
 ]
