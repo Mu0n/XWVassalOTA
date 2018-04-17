@@ -1,2 +1,9 @@
 [
+  {
+    "xws": "uwing",
+    "id": 45,
+    "has_dual_base" : true,
+    "dual_base_toggle_menu_text" : "Toggle Pivot Wing",
+    "dual_base_report_text" : "---$playerName$: $Pilot Name$ ($Craft ID #$) pivots to $U-Wing_Name$ position."
+  }
 ]
