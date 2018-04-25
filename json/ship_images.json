@@ -532,5 +532,11 @@
     "image": "Ship_z95headhunter_tala.png",
     "identifier" : "tala",
     "faction" : ["rebelalliance"]
+  },
+  {
+    "xws": "tiereaper",
+    "image": "Ship_tiereaper.png",
+    "identifier": "standard",
+    "faction" : ["galacticempire"]
   }
 ]
