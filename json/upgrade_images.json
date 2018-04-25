@@ -1868,5 +1868,30 @@
     "slot": "Turret",
     "xws": "twinlaserturret",
     "image": "Upgrade_Turret_twinlaserturret.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "sawgerrera",
+    "image": "Upgrade_Crew_sawgerrera.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "magvayarro",
+    "image": "Upgrade_Crew_magvayarro.jpg"
+  },
+  {
+    "slot": "Torpedo",
+    "xws": "renegaderefit",
+    "image": "Upgrade_Torpedo_renegaderefit.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "servomotorsfoils",
+    "image": "Upgrade_Modification_servomotorsfoils.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "servomotorsfoils",
+    "image": "Upgrade_Modification_servomotorsfoils_back.jpg"
   }
 ]
