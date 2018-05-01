@@ -38,5 +38,10 @@
     "image": "Condition_rattled.jpg",
     "tokenimage": "ConditionToken_rattled.png",
     "xws": "rattled"
+  },
+  {
+    "image": "Condition_optimizedprototype.jpg",
+    "tokenimage": "ConditionToken_optimizedprototype.png",
+    "xws": "optimizedprototype"
   }
 ]
