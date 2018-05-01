@@ -1893,5 +1893,25 @@
     "slot": "Modification",
     "xws": "servomotorsfoils",
     "image": "Upgrade_Modification_servomotorsfoils_back.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "directorkrennic",
+    "image": "Upgrade_Crew_directorkrennic.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "isbslicer",
+    "image": "Upgrade_Crew_isbslicer.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "tacticalofficer",
+    "image": "Upgrade_Crew_tacticalofficer.jpg"
+  },
+  {
+    "slot": "Title",
+    "xws": "advancedailerons",
+    "image": "Upgrade_Title_advancedailerons.jpg"
   }
 ]
