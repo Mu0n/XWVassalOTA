@@ -1692,5 +1692,29 @@
     "pilotxws": "benthictwotubes",
     "faction": "rebelalliance",
     "image": "Pilot_rebelalliance_uwing_benthictwotubes.jpg"
+  },
+  {
+    "shipxws": "tiereaper",
+    "pilotxws": "scarifbasepilot",
+    "faction": "galacticempire",
+    "image": "Pilot_galacticempire_tiereaper_scarifbasepilot"
+  },
+  {
+    "shipxws": "tiereaper",
+    "pilotxws": "vizier",
+    "faction": "galacticempire",
+    "image": "Pilot_galacticempire_tiereaper_vizier.jpg"
+  },
+  {
+    "shipxws": "tiereaper",
+    "pilotxws": "captainferoph",
+    "faction": "galacticempire",
+    "image": "Pilot_galacticempire_tiereaper_captainferoph.jpg"
+  },
+  {
+    "shipxws": "tiereaper",
+    "pilotxws": "majorvermeil",
+    "faction": "galacticempire",
+    "image": "Pilot_galacticempire_tiereaper_majorvermeil.jpg"
   }
 ]
