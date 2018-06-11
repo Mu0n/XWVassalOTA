@@ -426,6 +426,18 @@
     "faction" : ["rebelalliance"]
   },
   {
+    "xws": "xwing",
+    "image": "Ship_xwing-opened.png",
+    "identifier" : "opened",
+    "faction" : ["rebelalliance"]
+  },
+  {
+    "xws": "xwing",
+    "image": "Ship_xwing-closed.png",
+    "identifier" : "closed",
+    "faction" : ["rebelalliance"]
+  },
+  {
     "xws": "yt1300",
     "image": "Ship_yt1300.png",
     "identifier" : "standard",
