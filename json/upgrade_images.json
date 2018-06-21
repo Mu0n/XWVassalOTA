@@ -1913,5 +1913,15 @@
     "slot": "Title",
     "xws": "advancedailerons",
     "image": "Upgrade_Title_advancedailerons.jpg"
+  },
+  {
+    "slot": "Modification",
+    "xws": "multispectralcamouflage",
+    "image": "Upgrade_Modification_multispectralcamouflage.jpg"
+  },
+  {
+    "slot": "System",
+    "xws": "thrustcorrector",
+    "image": "Upgrade_System_thrustcorrector.jpg"
   }
 ]
