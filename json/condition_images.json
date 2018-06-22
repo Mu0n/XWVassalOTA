@@ -43,5 +43,10 @@
     "image": "Condition_optimizedprototype.jpg",
     "tokenimage": "ConditionToken_optimizedprototype.png",
     "xws": "optimizedprototype"
+  },
+  {
+    "image": "Condition_scrambled.jpg",
+    "tokenimage": "ConditionToken_scrambled.png",
+    "xws": "scrambled"
   }
 ]
